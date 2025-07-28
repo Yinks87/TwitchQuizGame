@@ -2,15 +2,15 @@
   "questionCount": 15,
   "shuffleQuestions": true,
   "questionTime": 15,
-  "breakTime": 3,
+  "breakTime": 5,
   "pointsPerCorrect": 10,
   "showLiveVotes": false,
   "showPermanentLeaderboard": true,
   "showVotersDisplay": true,
-  "channels": ["yinks87"],
+  "channels": [],
   "debugMode": true,
   "startupCountdown": true,
-  "startupCountdownTime": 3,
+  "startupCountdownTime": 5,
   "moderatorCommands": ["!startquiz", "!endquiz"],
   "finalLeaderboardFadeoutTime": 5
 }

@@ -1,4 +1,12 @@
 {
+  "categories": {
+    "gaming": "🎮",
+    "cars": "🚗",
+    "movies": "🎬",
+    "tv_series": "📺",
+    "geography": "🌍",
+    "sports": "⚽"
+  },
   "questions": [
     {
       "category": "gaming",
@@ -2518,6 +2526,486 @@
       "question": "Welcher Meeresarm trennt Europa von Afrika?",
       "answers": ["Rotes Meer", "Persischer Golf", "Mittelmeer", "Schwarzes Meer"],
       "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie oft finden die Olympischen Sommerspiele statt?",
+      "answers": ["Alle 2 Jahre", "Alle 4 Jahre", "Alle 5 Jahre", "Alle 3 Jahre"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Sport wird beim Super Bowl gespielt?",
+      "answers": ["Basketball", "Baseball", "American Football", "Eishockey"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Spieler hat eine Basketballmannschaft auf dem Feld?",
+      "answers": ["4", "5", "6", "7"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport ist Novak Djokovic berühmt?",
+      "answers": ["Golf", "Tennis", "Fußball", "Cricket"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie lang ist ein Marathon?",
+      "answers": ["40,195 km", "42,195 km", "44,195 km", "38,195 km"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welches Land gewann die FIFA WM 2018?",
+      "answers": ["Deutschland", "Brasilien", "Frankreich", "Argentinien"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Löcher hat ein Standard-Golfplatz?",
+      "answers": ["16", "18", "20", "22"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es einen 'Slam Dunk'?",
+      "answers": ["Volleyball", "Basketball", "Handball", "Tennis"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher deutsche Fußballer gewann 2014 den Ballon d'Or?",
+      "answers": ["Thomas Müller", "Manuel Neuer", "Keiner", "Bastian Schweinsteiger"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie heißt der wichtigste Tennisplatz in Wimbledon?",
+      "answers": ["Centre Court", "Court One", "Arthur Ashe Stadium", "Philippe Chatrier"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Sport wird bei der Tour de France betrieben?",
+      "answers": ["Laufen", "Schwimmen", "Radfahren", "Skifahren"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Spieler hat eine Fußballmannschaft auf dem Feld?",
+      "answers": ["10", "11", "12", "9"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Jahr fanden die ersten modernen Olympischen Spiele statt?",
+      "answers": ["1892", "1896", "1900", "1888"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Boxer war als 'The Greatest' bekannt?",
+      "answers": ["Mike Tyson", "Muhammad Ali", "Joe Frazier", "Rocky Marciano"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie nennt man es, wenn man beim Bowling alle Pins mit dem ersten Wurf umwirft?",
+      "answers": ["Spare", "Strike", "Split", "Turkey"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welches Land richtet die FIFA WM 2026 aus?",
+      "answers": ["Katar", "USA/Kanada/Mexiko", "Deutschland", "Brasilien"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport ist Serena Williams berühmt?",
+      "answers": ["Golf", "Tennis", "Basketball", "Leichtathletik"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Grand Slam Turniere gibt es im Tennis pro Jahr?",
+      "answers": ["3", "4", "5", "6"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Fußballverein hat die meisten Champions League Titel?",
+      "answers": ["FC Barcelona", "Real Madrid", "AC Milan", "Bayern München"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es eine 'Penalty Box'?",
+      "answers": ["Basketball", "Fußball", "Eishockey", "Handball"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie lang ist eine Runde in einem Boxkampf?",
+      "answers": ["2 Minuten", "3 Minuten", "4 Minuten", "5 Minuten"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welches Land gewann die erste FIFA Weltmeisterschaft 1930?",
+      "answers": ["Brasilien", "Argentinien", "Uruguay", "Deutschland"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport wird ein 'Puck' verwendet?",
+      "answers": ["Eishockey", "Feldhockey", "Lacrosse", "Cricket"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "Wie heißt das berühmteste Pferderennen in England?",
+      "answers": ["Kentucky Derby", "Epsom Derby", "Melbourne Cup", "Prix de l'Arc de Triomphe"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher deutsche Tennisspieler gewann 6 Grand Slam Titel?",
+      "answers": ["Boris Becker", "Steffi Graf", "Michael Stich", "Tommy Haas"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es eine '3-Punkt-Linie'?",
+      "answers": ["Volleyball", "Basketball", "Handball", "American Football"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Spieler hat eine Volleyballmannschaft auf dem Feld?",
+      "answers": ["5", "6", "7", "8"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Schwimmer hält die meisten olympischen Goldmedaillen?",
+      "answers": ["Mark Spitz", "Michael Phelps", "Ian Thorpe", "Adam Peaty"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Jahr fanden die Olympischen Spiele in München statt?",
+      "answers": ["1968", "1972", "1976", "1980"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welche Sportart wird beim Stanley Cup gespielt?",
+      "answers": ["Basketball", "Baseball", "American Football", "Eishockey"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Wie heißt der berühmteste Golfplatz in Schottland?",
+      "answers": ["Augusta National", "St. Andrews", "Pebble Beach", "Winged Foot"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Fußballspieler hat die meisten Ballon d'Or Auszeichnungen?",
+      "answers": ["Cristiano Ronaldo", "Lionel Messi", "Michel Platini", "Johan Cruyff"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es ein 'Birdie'?",
+      "answers": ["Badminton", "Golf", "Tennis", "Squash"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Minuten dauert ein Eishockeyspiel (reine Spielzeit)?",
+      "answers": ["50 Minuten", "60 Minuten", "70 Minuten", "80 Minuten"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welches Land dominiert traditionell den Sport Sumo?",
+      "answers": ["China", "Japan", "Korea", "Thailand"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport ist Tiger Woods berühmt?",
+      "answers": ["Tennis", "Golf", "Basketball", "Baseball"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie heißt die höchste Liga im deutschen Fußball?",
+      "answers": ["1. Liga", "Bundesliga", "Premier League", "Serie A"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Sport wird bei den X-Games hauptsächlich gezeigt?",
+      "answers": ["Traditionelle Sportarten", "Extremsportarten", "Wassersport", "Wintersport"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Jahr gewann Deutschland die FIFA WM zum vierten Mal?",
+      "answers": ["2010", "2014", "2018", "2006"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie nennt man einen Treffer beim Baseball, der über den Zaun geht?",
+      "answers": ["Grand Slam", "Home Run", "Strike", "Foul Ball"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welche Sportart wird beim Davis Cup gespielt?",
+      "answers": ["Golf", "Tennis", "Badminton", "Squash"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Spieler hat eine Handballmannschaft auf dem Feld?",
+      "answers": ["6", "7", "8", "9"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es eine 'Shot Clock'?",
+      "answers": ["Fußball", "Basketball", "Tennis", "Volleyball"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher deutsche Formel-1-Fahrer gewann 7 Weltmeisterschaften?",
+      "answers": ["Nico Rosberg", "Sebastian Vettel", "Michael Schumacher", "Ralf Schumacher"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie lang ist ein Tennisplatz?",
+      "answers": ["23,77 Meter", "25,77 Meter", "21,77 Meter", "27,77 Meter"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es 'Innings'?",
+      "answers": ["Cricket", "Baseball", "Softball", "Alle drei"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Welches Land gewann die meisten Olympischen Goldmedaillen aller Zeiten?",
+      "answers": ["Sowjetunion", "Deutschland", "USA", "China"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie heißt das berühmteste Radrennen in Frankreich?",
+      "answers": ["Tour de France", "Giro d'Italia", "Vuelta a España", "Paris-Roubaix"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es eine 'Endzone'?",
+      "answers": ["Basketball", "American Football", "Rugby", "Beide b und c"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Basketballspieler wurde als 'His Airness' bekannt?",
+      "answers": ["LeBron James", "Kobe Bryant", "Michael Jordan", "Magic Johnson"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Runden hat ein professioneller Boxkampf maximal?",
+      "answers": ["10", "12", "15", "20"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport ist Usain Bolt berühmt?",
+      "answers": ["Schwimmen", "Leichtathletik", "Radfahren", "Turnen"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welche Sportart wird beim Ryder Cup gespielt?",
+      "answers": ["Tennis", "Golf", "Cricket", "Rugby"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie heißt der Ball beim Rugby?",
+      "answers": ["Oval", "Rugby-Ball", "Ei", "Alle Begriffe sind korrekt"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Jahr fanden die ersten Winterolympischen Spiele statt?",
+      "answers": ["1920", "1924", "1928", "1932"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Sport wird bei der World Series gespielt?",
+      "answers": ["Basketball", "American Football", "Baseball", "Eishockey"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Spieler hat eine Cricketmannschaft?",
+      "answers": ["9", "10", "11", "12"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es einen 'Scrum'?",
+      "answers": ["American Football", "Rugby", "Australian Football", "Gaelic Football"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welche deutsche Tennisspielerin gewann 22 Grand Slam Titel?",
+      "answers": ["Steffi Graf", "Angelique Kerber", "Sabine Lisicki", "Andrea Petkovic"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "Wie nennt man es, wenn ein Bowler drei Strikes hintereinander wirft?",
+      "answers": ["Turkey", "Eagle", "Birdie", "Condor"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es eine 'Power Play'?",
+      "answers": ["Basketball", "Eishockey", "American Football", "Rugby"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Fußballverein wird als 'Die Roten Teufel' bezeichnet?",
+      "answers": ["FC Bayern München", "Bayer Leverkusen", "1. FC Kaiserslautern", "SC Freiburg"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie lang ist eine Basketball-Spielzeit in der NBA?",
+      "answers": ["40 Minuten", "48 Minuten", "50 Minuten", "60 Minuten"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es einen 'Ace'?",
+      "answers": ["Golf", "Tennis", "Volleyball", "Alle drei"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Welches Land gewann die FIFA WM 2010?",
+      "answers": ["Deutschland", "Niederlande", "Spanien", "Uruguay"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie heißt der wichtigste Pokal im englischen Fußball?",
+      "answers": ["Premier League Trophy", "FA Cup", "League Cup", "Community Shield"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport ist Lewis Hamilton berühmt?",
+      "answers": ["Motorrad-Rennsport", "Formel 1", "Rally", "NASCAR"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Sekunden hat ein Spieler in der NBA für einen Freiwurf?",
+      "answers": ["8 Sekunden", "10 Sekunden", "12 Sekunden", "15 Sekunden"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Sport wird beim Fed Cup (jetzt Billie Jean King Cup) gespielt?",
+      "answers": ["Tennis", "Badminton", "Squash", "Tischtennis"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Jahr fanden die Olympischen Spiele in Barcelona statt?",
+      "answers": ["1988", "1992", "1996", "2000"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie heißt der Rekordtorschütze der Fußball-Bundesliga?",
+      "answers": ["Gerd Müller", "Klaus Fischer", "Robert Lewandowski", "Manfred Burgsmüller"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es einen 'Hat-Trick'?",
+      "answers": ["Nur im Fußball", "Nur im Cricket", "Nur im Eishockey", "In mehreren Sportarten"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Welche Farbe hat das gelbe Trikot bei der Tour de France?",
+      "answers": ["Für den Gesamtführenden", "Für den Bergkönig", "Für den Punktbesten", "Für den besten Nachwuchsfahrer"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "Wie nennt man die Austragungsstätte des US Open Tennis?",
+      "answers": ["Madison Square Garden", "Yankee Stadium", "USTA Billie Jean King National Tennis Center", "Barclays Center"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport ist Cristiano Ronaldo berühmt?",
+      "answers": ["Basketball", "Tennis", "Fußball", "Volleyball"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Welches Land richtet die Olympischen Sommerspiele 2024 aus?",
+      "answers": ["Japan", "Frankreich", "USA", "Australien"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Wie heißt der Pokal für den Gewinner der NHL?",
+      "answers": ["Stanley Cup", "Lord Stanley Trophy", "NHL Championship", "Ice Cup"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es 'Wickets'?",
+      "answers": ["Baseball", "Cricket", "Softball", "Rounders"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher deutsche Fußballverein wird 'Die Borussia' genannt?",
+      "answers": ["Borussia Dortmund", "Borussia Mönchengladbach", "Beide", "Keiner"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport werden die Wimbledon Championships ausgetragen?",
+      "answers": ["Badminton", "Tennis", "Squash", "Tischtennis"],
+      "correct": 1
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "categories": {
-    "gaming": "🎮",
-    "cars": "🚗",
-    "movies": "🎬",
-    "tv_series": "📺",
-    "geography": "🌍",
-    "sports": "⚽"
+    "gaming": "ðŸŽ®",
+    "cars": "ðŸš—",
+    "movies": "ðŸŽ¬",
+    "tv_series": "ðŸ“º",
+    "geography": "ðŸŒ",
+    "sports": "âš½"
   },
   "questions": [
     {
       "category": "gaming",
-      "question": "Welches Unternehmen entwickelte das Spiel 'Super Mario Bros.'?",
+      "question": "Welches Unternehmen entwickelte das Spiel \u0027Super Mario Bros.\u0027?",
       "answers": ["Nintendo", "Sega", "Sony", "Microsoft"],
       "correct": 0
     },
@@ -34,8 +34,8 @@
     },
     {
       "category": "gaming",
-      "question": "In welchem Spiel sammelt man Pokéballs?",
-      "answers": ["Digimon", "Pokémon", "Yu-Gi-Oh!", "Tamagotchi"],
+      "question": "In welchem Spiel sammelt man PokÃ©balls?",
+      "answers": ["Digimon", "PokÃ©mon", "Yu-Gi-Oh!", "Tamagotchi"],
       "correct": 1
     },
     {
@@ -76,31 +76,31 @@
     },
     {
       "category": "gaming",
-      "question": "Welches Spiel popularisierte den Begriff 'MOBA'?",
+      "question": "Welches Spiel popularisierte den Begriff \u0027MOBA\u0027?",
       "answers": ["Dota", "League of Legends", "Heroes of Newerth", "Smite"],
       "correct": 1
     },
     {
       "category": "gaming",
-      "question": "In welchem Spiel kämpft man gegen Creeper?",
+      "question": "In welchem Spiel kampft man gegen Creeper?",
       "answers": ["Terraria", "Minecraft", "Roblox", "Fortnite"],
       "correct": 1
     },
     {
       "category": "gaming",
-      "question": "Welche Firma entwickelte das Spiel 'Tetris'?",
+      "question": "Welche Firma entwickelte das Spiel \u0027Tetris\u0027?",
       "answers": ["Nintendo", "Elektronorgtechnica", "Sega", "Atari"],
       "correct": 1
     },
     {
       "category": "gaming",
-      "question": "Wie viele Leben hat man standardmäßig in Super Mario Bros.?",
+      "question": "Wie viele Leben hat man standardmaßig in Super Mario Bros.?",
       "answers": ["2", "3", "4", "5"],
       "correct": 1
     },
     {
       "category": "gaming",
-      "question": "Welches Spiel wird oft als 'Königsdisziplin' des E-Sports bezeichnet?",
+      "question": "Welches Spiel wird oft als \u0027Königsdisziplin\u0027 des E-Sports bezeichnet?",
       "answers": ["StarCraft", "Counter-Strike", "League of Legends", "Dota 2"],
       "correct": 0
     },
@@ -149,7 +149,7 @@
     {
       "category": "gaming",
       "question": "Welches Spiel gilt als Vorreiter für Tower Defense Spiele?",
-      "answers": ["Defense of the Ancients", "Warcraft III", "Command & Conquer", "StarCraft"],
+      "answers": ["Defense of the Ancients", "Warcraft III", "Command \u0026 Conquer", "StarCraft"],
       "correct": 1
     },
     {
@@ -160,13 +160,13 @@
     },
     {
       "category": "gaming",
-      "question": "Welches Spiel popularisierte den Begriff 'Sandbox'?",
-      "answers": ["Garry's Mod", "Minecraft", "LittleBigPlanet", "Roblox"],
+      "question": "Welches Spiel popularisierte den Begriff \u0027Sandbox\u0027?",
+      "answers": ["Garry\u0027s Mod", "Minecraft", "LittleBigPlanet", "Roblox"],
       "correct": 1
     },
     {
       "category": "gaming",
-      "question": "Wie heißt der Hauptcharakter in der Assassin's Creed Serie (erster Teil)?",
+      "question": "Wie heißt der Hauptcharakter in der Assassin\u0027s Creed Serie (erster Teil)?",
       "answers": ["Ezio", "Altair", "Connor", "Edward"],
       "correct": 1
     },
@@ -208,7 +208,7 @@
     },
     {
       "category": "gaming",
-      "question": "Welches Spiel führte die Loot-Box Mechanik populär ein?",
+      "question": "Welches Spiel führte die Loot-Box Mechanik popular ein?",
       "answers": ["Team Fortress 2", "Counter-Strike: Global Offensive", "Overwatch", "FIFA"],
       "correct": 0
     },
@@ -226,19 +226,19 @@
     },
     {
       "category": "gaming",
-      "question": "In welchem Spiel kämpft man als Master Chief?",
+      "question": "In welchem Spiel kampft man als Master Chief?",
       "answers": ["Doom", "Halo", "Quake", "Wolfenstein"],
       "correct": 1
     },
     {
       "category": "gaming",
-      "question": "Welche Firma entwickelte das Spiel 'Portal'?",
+      "question": "Welche Firma entwickelte das Spiel \u0027Portal\u0027?",
       "answers": ["Valve", "id Software", "Bethesda", "Ubisoft"],
       "correct": 0
     },
     {
       "category": "gaming",
-      "question": "Wie heißt die Währung in Animal Crossing?",
+      "question": "Wie heißt die Wahrung in Animal Crossing?",
       "answers": ["Sterne", "Münzen", "Sternis", "Taler"],
       "correct": 2
     },
@@ -256,7 +256,7 @@
     },
     {
       "category": "cars",
-      "question": "In welchem Jahr wurde der VW Käfer erstmals produziert?",
+      "question": "In welchem Jahr wurde der VW Kafer erstmals produziert?",
       "answers": ["1937", "1938", "1939", "1940"],
       "correct": 1
     },
@@ -298,7 +298,7 @@
     {
       "category": "cars",
       "question": "In welchem Land wurde Volvo gegründet?",
-      "answers": ["Norwegen", "Dänemark", "Schweden", "Finnland"],
+      "answers": ["Norwegen", "Danemark", "Schweden", "Finnland"],
       "correct": 2
     },
     {
@@ -482,7 +482,7 @@
     {
       "category": "cars",
       "question": "In welchem Land wurde Koenigsegg gegründet?",
-      "answers": ["Norwegen", "Dänemark", "Schweden", "Finnland"],
+      "answers": ["Norwegen", "Danemark", "Schweden", "Finnland"],
       "correct": 2
     },
     {
@@ -505,7 +505,7 @@
     {
       "category": "cars",
       "question": "Welche Marke hat eine Löwin als Maskottchen?",
-      "answers": ["Renault", "Peugeot", "Citroën", "Fiat"],
+      "answers": ["Renault", "Peugeot", "CitroÃ«n", "Fiat"],
       "correct": 1
     },
     {
@@ -516,7 +516,7 @@
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Inception'?",
+      "question": "Wer führte Regie bei \u0027Inception\u0027?",
       "answers": ["Christopher Nolan", "Steven Spielberg", "Martin Scorsese", "Quentin Tarantino"],
       "correct": 0
     },
@@ -550,19 +550,19 @@
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr kam 'Titanic' in die Kinos?",
+      "question": "In welchem Jahr kam \u0027Titanic\u0027 in die Kinos?",
       "answers": ["1996", "1997", "1998", "1999"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Pulp Fiction'?",
+      "question": "Wer führte Regie bei \u0027Pulp Fiction\u0027?",
       "answers": ["Martin Scorsese", "Quentin Tarantino", "David Lynch", "Coen Brothers"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wie heißt der Hauptcharakter in 'Matrix'?",
+      "question": "Wie heißt der Hauptcharakter in \u0027Matrix\u0027?",
       "answers": ["Neo", "Morpheus", "Trinity", "Agent Smith"],
       "correct": 0
     },
@@ -574,13 +574,13 @@
     },
     {
       "category": "movies",
-      "question": "Wer komponierte die Musik für 'Star Wars'?",
+      "question": "Wer komponierte die Musik für \u0027Star Wars\u0027?",
       "answers": ["Hans Zimmer", "John Williams", "Danny Elfman", "Howard Shore"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr kam der erste 'Star Wars' Film heraus?",
+      "question": "In welchem Jahr kam der erste \u0027Star Wars\u0027 Film heraus?",
       "answers": ["1976", "1977", "1978", "1979"],
       "correct": 1
     },
@@ -592,7 +592,7 @@
     },
     {
       "category": "movies",
-      "question": "Wie heißt der Regisseur von 'E.T.'?",
+      "question": "Wie heißt der Regisseur von \u0027E.T.\u0027?",
       "answers": ["George Lucas", "Steven Spielberg", "Ridley Scott", "James Cameron"],
       "correct": 1
     },
@@ -609,97 +609,97 @@
     },
     {
       "category": "movies",
-      "question": "Wer spielte den Joker in 'The Dark Knight'?",
+      "question": "Wer spielte den Joker in \u0027The Dark Knight\u0027?",
       "answers": ["Jack Nicholson", "Heath Ledger", "Joaquin Phoenix", "Jared Leto"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr kam 'Jurassic Park' heraus?",
+      "question": "In welchem Jahr kam \u0027Jurassic Park\u0027 heraus?",
       "answers": ["1992", "1993", "1994", "1995"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Alien'?",
+      "question": "Wer führte Regie bei \u0027Alien\u0027?",
       "answers": ["James Cameron", "Ridley Scott", "David Fincher", "Jean-Pierre Jeunet"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wie heißt der erste 'Rocky' Film?",
+      "question": "Wie heißt der erste \u0027Rocky\u0027 Film?",
       "answers": ["Rocky", "Rocky II", "Rocky Balboa", "Creed"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "Wer spielte den Hauptcharakter in 'Gladiator'?",
+      "question": "Wer spielte den Hauptcharakter in \u0027Gladiator\u0027?",
       "answers": ["Brad Pitt", "Russell Crowe", "Kevin Costner", "Mel Gibson"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr kam 'The Godfather' heraus?",
+      "question": "In welchem Jahr kam \u0027The Godfather\u0027 heraus?",
       "answers": ["1971", "1972", "1973", "1974"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Jaws'?",
+      "question": "Wer führte Regie bei \u0027Jaws\u0027?",
       "answers": ["George Lucas", "Steven Spielberg", "Martin Scorsese", "Francis Ford Coppola"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wie heißt der Hauptcharakter in 'Die Hard'?",
+      "question": "Wie heißt der Hauptcharakter in \u0027Die Hard\u0027?",
       "answers": ["John McClane", "Jack Reacher", "John Rambo", "Jack Ryan"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "Wer spielte den Hauptcharakter in 'Top Gun'?",
+      "question": "Wer spielte den Hauptcharakter in \u0027Top Gun\u0027?",
       "answers": ["Tom Cruise", "Val Kilmer", "Anthony Edwards", "Kelly McGillis"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr kam 'Back to the Future' heraus?",
+      "question": "In welchem Jahr kam \u0027Back to the Future\u0027 heraus?",
       "answers": ["1984", "1985", "1986", "1987"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Taxi Driver'?",
+      "question": "Wer führte Regie bei \u0027Taxi Driver\u0027?",
       "answers": ["Martin Scorsese", "Francis Ford Coppola", "Robert De Niro", "Al Pacino"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "Wie heißt der Roboter in 'WALL-E'?",
+      "question": "Wie heißt der Roboter in \u0027WALL-E\u0027?",
       "answers": ["EVE", "WALL-E", "AUTO", "M-O"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer komponierte die Musik für 'The Lord of the Rings'?",
+      "question": "Wer komponierte die Musik für \u0027The Lord of the Rings\u0027?",
       "answers": ["John Williams", "Hans Zimmer", "Howard Shore", "Danny Elfman"],
       "correct": 2
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr kam 'Avatar' heraus?",
+      "question": "In welchem Jahr kam \u0027Avatar\u0027 heraus?",
       "answers": ["2008", "2009", "2010", "2011"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer spielte den Hauptcharakter in 'Scarface'?",
+      "question": "Wer spielte den Hauptcharakter in \u0027Scarface\u0027?",
       "answers": ["Robert De Niro", "Al Pacino", "Joe Pesci", "Ray Liotta"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wie heißt der erste 'Indiana Jones' Film?",
+      "question": "Wie heißt der erste \u0027Indiana Jones\u0027 Film?",
       "answers": [
         "Temple of Doom",
         "Last Crusade",
@@ -710,73 +710,73 @@
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Casablanca'?",
+      "question": "Wer führte Regie bei \u0027Casablanca\u0027?",
       "answers": ["Michael Curtiz", "Billy Wilder", "John Huston", "Howard Hawks"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr kam 'The Shining' heraus?",
+      "question": "In welchem Jahr kam \u0027The Shining\u0027 heraus?",
       "answers": ["1979", "1980", "1981", "1982"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer spielte den Hauptcharakter in 'The Departed'?",
+      "question": "Wer spielte den Hauptcharakter in \u0027The Departed\u0027?",
       "answers": ["Matt Damon", "Leonardo DiCaprio", "Mark Wahlberg", "Jack Nicholson"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wie heißt der Regisseur von 'Kill Bill'?",
+      "question": "Wie heißt der Regisseur von \u0027Kill Bill\u0027?",
       "answers": ["Quentin Tarantino", "Robert Rodriguez", "John Woo", "Luc Besson"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "Wer spielte den Hauptcharakter in 'Braveheart'?",
+      "question": "Wer spielte den Hauptcharakter in \u0027Braveheart\u0027?",
       "answers": ["Russell Crowe", "Mel Gibson", "Kevin Costner", "Patrick Swayze"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr kam 'The Matrix' heraus?",
+      "question": "In welchem Jahr kam \u0027The Matrix\u0027 heraus?",
       "answers": ["1998", "1999", "2000", "2001"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Goodfellas'?",
+      "question": "Wer führte Regie bei \u0027Goodfellas\u0027?",
       "answers": ["Francis Ford Coppola", "Martin Scorsese", "Brian De Palma", "Michael Mann"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wie heißt der Hauptcharakter in 'Fight Club'?",
+      "question": "Wie heißt der Hauptcharakter in \u0027Fight Club\u0027?",
       "answers": ["Tyler Durden", "The Narrator", "Robert Paulson", "Marla Singer"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer spielte den Hauptcharakter in 'A Beautiful Mind'?",
+      "question": "Wer spielte den Hauptcharakter in \u0027A Beautiful Mind\u0027?",
       "answers": ["Russell Crowe", "Kevin Spacey", "Geoffrey Rush", "Ed Harris"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr kam 'The Silence of the Lambs' heraus?",
+      "question": "In welchem Jahr kam \u0027The Silence of the Lambs\u0027 heraus?",
       "answers": ["1990", "1991", "1992", "1993"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Apocalypse Now'?",
+      "question": "Wer führte Regie bei \u0027Apocalypse Now\u0027?",
       "answers": ["Martin Scorsese", "Francis Ford Coppola", "Michael Cimino", "Oliver Stone"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wie heißt der zweite Teil von 'The Godfather'?",
+      "question": "Wie heißt der zweite Teil von \u0027The Godfather\u0027?",
       "answers": [
         "The Godfather: Part II",
         "The Godfather Returns",
@@ -787,19 +787,19 @@
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt der Hauptcharakter in 'Breaking Bad'?",
+      "question": "Wie heißt der Hauptcharakter in \u0027Breaking Bad\u0027?",
       "answers": ["Walter White", "Jesse Pinkman", "Hank Schrader", "Saul Goodman"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "In welcher Stadt spielt 'The Sopranos'?",
+      "question": "In welcher Stadt spielt \u0027The Sopranos\u0027?",
       "answers": ["New York", "Boston", "Newark", "Philadelphia"],
       "correct": 2
     },
     {
       "category": "tv_series",
-      "question": "Wie viele Staffeln hat 'Game of Thrones'?",
+      "question": "Wie viele Staffeln hat \u0027Game of Thrones\u0027?",
       "answers": ["7", "8", "9", "10"],
       "correct": 1
     },
@@ -811,229 +811,229 @@
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'Friends'?",
+      "question": "In welchem Jahr startete \u0027Friends\u0027?",
       "answers": ["1993", "1994", "1995", "1996"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt das Cafe in 'Friends'?",
-      "answers": ["Central Café", "Central Perk", "Friends Café", "Manhattan Café"],
+      "question": "Wie heißt das Cafe in \u0027Friends\u0027?",
+      "answers": ["Central CafÃ©", "Central Perk", "Friends CafÃ©", "Manhattan CafÃ©"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt den Hauptcharakter in 'House of Cards'?",
+      "question": "Wer spielt den Hauptcharakter in \u0027House of Cards\u0027?",
       "answers": ["Bryan Cranston", "Kevin Spacey", "Jon Hamm", "Matthew McConaughey"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "In welcher Stadt spielt 'The Wire'?",
+      "question": "In welcher Stadt spielt \u0027The Wire\u0027?",
       "answers": ["New York", "Baltimore", "Detroit", "Chicago"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt der Hauptcharakter in 'Dexter'?",
+      "question": "Wie heißt der Hauptcharakter in \u0027Dexter\u0027?",
       "answers": ["Dexter Morgan", "Dexter Miller", "Dexter Johnson", "Dexter Smith"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Welcher Sender produzierte 'The Sopranos'?",
+      "question": "Welcher Sender produzierte \u0027The Sopranos\u0027?",
       "answers": ["HBO", "Showtime", "AMC", "FX"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt die Hauptfigur in 'Mad Men'?",
+      "question": "Wie heißt die Hauptfigur in \u0027Mad Men\u0027?",
       "answers": ["Don Draper", "Roger Sterling", "Pete Campbell", "Bert Cooper"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr endete 'Lost'?",
+      "question": "In welchem Jahr endete \u0027Lost\u0027?",
       "answers": ["2009", "2010", "2011", "2012"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Walter White in 'Breaking Bad'?",
+      "question": "Wer spielt Walter White in \u0027Breaking Bad\u0027?",
       "answers": ["Aaron Paul", "Bryan Cranston", "Dean Norris", "Bob Odenkirk"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt das Königreich in 'Game of Thrones'?",
+      "question": "Wie heißt das Königreich in \u0027Game of Thrones\u0027?",
       "answers": ["Westeros", "Essos", "Valyria", "Dragonstone"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Welcher Charakter wird 'The Mother of Dragons' genannt?",
+      "question": "Welcher Charakter wird \u0027The Mother of Dragons\u0027 genannt?",
       "answers": ["Cersei Lannister", "Arya Stark", "Daenerys Targaryen", "Sansa Stark"],
       "correct": 2
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'The Simpsons'?",
+      "question": "In welchem Jahr startete \u0027The Simpsons\u0027?",
       "answers": ["1988", "1989", "1990", "1991"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt der Vater in 'The Simpsons'?",
+      "question": "Wie heißt der Vater in \u0027The Simpsons\u0027?",
       "answers": ["Homer", "Bart", "Marge", "Lisa"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Welcher Sender produziert 'Stranger Things'?",
+      "question": "Welcher Sender produziert \u0027Stranger Things\u0027?",
       "answers": ["HBO", "Netflix", "Amazon Prime", "Hulu"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "In welcher Stadt spielt 'How I Met Your Mother'?",
+      "question": "In welcher Stadt spielt \u0027How I Met Your Mother\u0027?",
       "answers": ["Boston", "Chicago", "New York", "Los Angeles"],
       "correct": 2
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt der Hauptcharakter in 'The Office' (US)?",
+      "question": "Wie heißt der Hauptcharakter in \u0027The Office\u0027 (US)?",
       "answers": ["Jim Halpert", "Dwight Schrute", "Michael Scott", "Pam Beesly"],
       "correct": 2
     },
     {
       "category": "tv_series",
-      "question": "Welches Jahr spielt in der ersten Staffel von 'Stranger Things'?",
+      "question": "Welches Jahr spielt in der ersten Staffel von \u0027Stranger Things\u0027?",
       "answers": ["1982", "1983", "1984", "1985"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Tyrion Lannister in 'Game of Thrones'?",
+      "question": "Wer spielt Tyrion Lannister in \u0027Game of Thrones\u0027?",
       "answers": ["Peter Dinklage", "Nikolaj Coster-Waldau", "Lena Headey", "Charles Dance"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt das Krankenhaus in 'Grey's Anatomy'?",
+      "question": "Wie heißt das Krankenhaus in \u0027Grey\u0027s Anatomy\u0027?",
       "answers": ["Seattle Grace", "Grey Sloan Memorial", "Mercy West", "Seattle Presbyterian"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'The X-Files'?",
+      "question": "In welchem Jahr startete \u0027The X-Files\u0027?",
       "answers": ["1992", "1993", "1994", "1995"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt den Hauptcharakter in 'True Detective' (erste Staffel)?",
+      "question": "Wer spielt den Hauptcharakter in \u0027True Detective\u0027 (erste Staffel)?",
       "answers": ["Matthew McConaughey", "Woody Harrelson", "Colin Farrell", "Mahershala Ali"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt die Hauptfigur in 'Homeland'?",
+      "question": "Wie heißt die Hauptfigur in \u0027Homeland\u0027?",
       "answers": ["Carrie Mathison", "Nicholas Brody", "Saul Berenson", "Quinn"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Welcher Sender produzierte 'Mad Men'?",
+      "question": "Welcher Sender produzierte \u0027Mad Men\u0027?",
       "answers": ["HBO", "AMC", "FX", "Showtime"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr endete 'Friends'?",
+      "question": "In welchem Jahr endete \u0027Friends\u0027?",
       "answers": ["2003", "2004", "2005", "2006"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt der Hauptcharakter in 'Suits'?",
+      "question": "Wie heißt der Hauptcharakter in \u0027Suits\u0027?",
       "answers": ["Harvey Specter", "Mike Ross", "Louis Litt", "Jessica Pearson"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Welches Unternehmen wird in 'Silicon Valley' parodiert?",
+      "question": "Welches Unternehmen wird in \u0027Silicon Valley\u0027 parodiert?",
       "answers": ["Google", "Facebook", "Apple", "Alle Tech-Unternehmen"],
       "correct": 3
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt den Hauptcharakter in 'House'?",
+      "question": "Wer spielt den Hauptcharakter in \u0027House\u0027?",
       "answers": ["Hugh Laurie", "Robert Sean Leonard", "Omar Epps", "Jesse Spencer"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'Lost'?",
+      "question": "In welchem Jahr startete \u0027Lost\u0027?",
       "answers": ["2003", "2004", "2005", "2006"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt das Schiff in 'Lost'?",
+      "question": "Wie heißt das Schiff in \u0027Lost\u0027?",
       "answers": ["Black Rock", "Kahana", "Freightor", "Oceanic 815"],
       "correct": 3
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt den Hauptcharakter in 'Fargo' (erste Staffel)?",
+      "question": "Wer spielt den Hauptcharakter in \u0027Fargo\u0027 (erste Staffel)?",
       "answers": ["Billy Bob Thornton", "Martin Freeman", "Colin Hanks", "Bob Odenkirk"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Welcher Sender produziert 'The Walking Dead'?",
+      "question": "Welcher Sender produziert \u0027The Walking Dead\u0027?",
       "answers": ["HBO", "AMC", "FX", "TNT"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt der Hauptcharakter in 'Better Call Saul'?",
+      "question": "Wie heißt der Hauptcharakter in \u0027Better Call Saul\u0027?",
       "answers": ["Jimmy McGill", "Saul Goodman", "Chuck McGill", "Mike Ehrmantraut"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'Westworld'?",
+      "question": "In welchem Jahr startete \u0027Westworld\u0027?",
       "answers": ["2015", "2016", "2017", "2018"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt den Hauptcharakter in 'The Crown'?",
+      "question": "Wer spielt den Hauptcharakter in \u0027The Crown\u0027?",
       "answers": ["Claire Foy", "Olivia Colman", "Helena Bonham Carter", "Alle richtig"],
       "correct": 3
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt die Hauptfigur in 'Narcos'?",
-      "answers": ["Pablo Escobar", "Steve Murphy", "Javier Peña", "Gustavo Gaviria"],
+      "question": "Wie heißt die Hauptfigur in \u0027Narcos\u0027?",
+      "answers": ["Pablo Escobar", "Steve Murphy", "Javier PeÃ±a", "Gustavo Gaviria"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Welcher Sender produziert 'Ozark'?",
+      "question": "Welcher Sender produziert \u0027Ozark\u0027?",
       "answers": ["HBO", "Netflix", "Amazon Prime", "Hulu"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr endete 'Breaking Bad'?",
+      "question": "In welchem Jahr endete \u0027Breaking Bad\u0027?",
       "answers": ["2012", "2013", "2014", "2015"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt der Hauptcharakter in 'The Mandalorian'?",
+      "question": "Wie heißt der Hauptcharakter in \u0027The Mandalorian\u0027?",
       "answers": ["Din Djarin", "Mando", "Grogu", "Cara Dune"],
       "correct": 0
     },
@@ -1063,13 +1063,7 @@
     },
     {
       "category": "gaming",
-      "question": "In welchem Spiel kämpft man als Master Chief?",
-      "answers": ["Gears of War", "Halo", "Mass Effect", "Destiny"],
-      "correct": 1
-    },
-    {
-      "category": "gaming",
-      "question": "Welche Währung verwendet man in World of Warcraft?",
+      "question": "Welche Wahrung verwendet man in World of Warcraft?",
       "answers": ["Gold", "Credits", "Coins", "Gems"],
       "correct": 0
     },
@@ -1081,7 +1075,7 @@
     },
     {
       "category": "gaming",
-      "question": "Welches Spiel machte das Genre 'MOBA' populär?",
+      "question": "Welches Spiel machte das Genre \u0027MOBA\u0027 popular?",
       "answers": ["League of Legends", "Defense of the Ancients", "Heroes of Newerth", "Smite"],
       "correct": 1
     },
@@ -1093,13 +1087,7 @@
     },
     {
       "category": "gaming",
-      "question": "Welches Unternehmen entwickelte Fortnite?",
-      "answers": ["Epic Games", "Valve", "Riot Games", "Blizzard"],
-      "correct": 0
-    },
-    {
-      "category": "gaming",
-      "question": "Wie heißt der Protagonist in Assassin's Creed?",
+      "question": "Wie heißt der Protagonist in Assassin\u0027s Creed?",
       "answers": ["Ezio", "Altair", "Connor", "Alle sind Protagonisten"],
       "correct": 3
     },
@@ -1159,12 +1147,6 @@
     },
     {
       "category": "gaming",
-      "question": "In welchem Spiel kämpft man gegen Creeper?",
-      "answers": ["Minecraft", "Terraria", "Don't Starve", "7 Days to Die"],
-      "correct": 0
-    },
-    {
-      "category": "gaming",
       "question": "Welches Spiel popularisierte das Battle Royale Genre?",
       "answers": ["H1Z1", "PUBG", "Fortnite", "Apex Legends"],
       "correct": 1
@@ -1195,7 +1177,7 @@
     },
     {
       "category": "gaming",
-      "question": "Welches Spiel machte Survival-Horror populär?",
+      "question": "Welches Spiel machte Survival-Horror popular?",
       "answers": ["Resident Evil", "Silent Hill", "Dead Space", "Amnesia"],
       "correct": 0
     },
@@ -1225,12 +1207,6 @@
     },
     {
       "category": "gaming",
-      "question": "In welchem Jahr wurde die Nintendo Switch veröffentlicht?",
-      "answers": ["2016", "2017", "2018", "2019"],
-      "correct": 1
-    },
-    {
-      "category": "gaming",
       "question": "Welches Studio entwickelte Horizon Zero Dawn?",
       "answers": ["Guerrilla Games", "Naughty Dog", "Santa Monica", "Sucker Punch"],
       "correct": 0
@@ -1244,13 +1220,13 @@
     {
       "category": "gaming",
       "question": "Welches Spiel popularisierte das Crafting-System?",
-      "answers": ["Minecraft", "Terraria", "Don't Starve", "7 Days to Die"],
+      "answers": ["Minecraft", "Terraria", "Don\u0027t Starve", "7 Days to Die"],
       "correct": 0
     },
     {
       "category": "gaming",
-      "question": "In welchem Spiel kämpft man als Spartan?",
-      "answers": ["Halo", "God of War", "Assassin's Creed Odyssey", "300: March to Glory"],
+      "question": "In welchem Spiel kampft man als Spartan?",
+      "answers": ["Halo", "God of War", "Assassin\u0027s Creed Odyssey", "300: March to Glory"],
       "correct": 0
     },
     {
@@ -1279,7 +1255,7 @@
     },
     {
       "category": "cars",
-      "question": "Welche deutsche Automarke hat den Slogan 'Vorsprung durch Technik'?",
+      "question": "Welche deutsche Automarke hat den Slogan \u0027Vorsprung durch Technik\u0027?",
       "answers": ["BMW", "Mercedes-Benz", "Audi", "Volkswagen"],
       "correct": 2
     },
@@ -1303,14 +1279,8 @@
     },
     {
       "category": "cars",
-      "question": "Welches Auto gilt als erstes Serienauto der Welt?",
-      "answers": ["Ford Model T", "Benz Patent-Motorwagen", "Peugeot Type 3", "Daimler Motorwagen"],
-      "correct": 1
-    },
-    {
-      "category": "cars",
       "question": "Welche Automarke verwendet einen Löwen als Logo?",
-      "answers": ["Peugeot", "Citroën", "Renault", "Jaguar"],
+      "answers": ["Peugeot", "CitroÃ«n", "Renault", "Jaguar"],
       "correct": 0
     },
     {
@@ -1336,12 +1306,6 @@
       "question": "Welche Automarke gehört zum Volkswagen Konzern?",
       "answers": ["Audi", "Lamborghini", "Bentley", "Alle drei"],
       "correct": 3
-    },
-    {
-      "category": "cars",
-      "question": "In welchem Land wurde Volvo gegründet?",
-      "answers": ["Norwegen", "Schweden", "Dänemark", "Finnland"],
-      "correct": 1
     },
     {
       "category": "cars",
@@ -1424,7 +1388,7 @@
     {
       "category": "cars",
       "question": "Wie heißt das SUV von Lamborghini?",
-      "answers": ["Urus", "Huracán", "Aventador", "Gallardo"],
+      "answers": ["Urus", "HuracÃ¡n", "Aventador", "Gallardo"],
       "correct": 0
     },
     {
@@ -1453,7 +1417,7 @@
     },
     {
       "category": "cars",
-      "question": "Welche Automarke hat den Slogan 'Das Beste oder nichts'?",
+      "question": "Welche Automarke hat den Slogan \u0027Das Beste oder nichts\u0027?",
       "answers": ["BMW", "Mercedes-Benz", "Audi", "Porsche"],
       "correct": 1
     },
@@ -1483,7 +1447,7 @@
     },
     {
       "category": "cars",
-      "question": "In welchem Jahr wurde der erste Beetle (Käfer) gebaut?",
+      "question": "In welchem Jahr wurde der erste Beetle (Kafer) gebaut?",
       "answers": ["1936", "1937", "1938", "1939"],
       "correct": 2
     },
@@ -1525,31 +1489,19 @@
     },
     {
       "category": "movies",
-      "question": "Welcher Film gewann 2020 den Oscar für den besten Film?",
-      "answers": ["Parasite", "1917", "Joker", "Once Upon a Time in Hollywood"],
-      "correct": 0
-    },
-    {
-      "category": "movies",
-      "question": "In welchem Jahr wurde 'Der Pate' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027Der Pate\u0027 veröffentlicht?",
       "answers": ["1971", "1972", "1973", "1974"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Pulp Fiction'?",
-      "answers": ["Quentin Tarantino", "Martin Scorsese", "Christopher Nolan", "Steven Spielberg"],
-      "correct": 0
-    },
-    {
-      "category": "movies",
-      "question": "Welcher Schauspieler spielte den Joker in 'The Dark Knight'?",
+      "question": "Welcher Schauspieler spielte den Joker in \u0027The Dark Knight\u0027?",
       "answers": ["Joaquin Phoenix", "Jack Nicholson", "Heath Ledger", "Jared Leto"],
       "correct": 2
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr wurde 'Titanic' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027Titanic\u0027 veröffentlicht?",
       "answers": ["1996", "1997", "1998", "1999"],
       "correct": 1
     },
@@ -1559,15 +1511,9 @@
       "answers": [
         "Titanic",
         "Romeo + Juliet",
-        "What's Eating Gilbert Grape",
+        "What\u0027s Eating Gilbert Grape",
         "The Basketball Diaries"
       ],
-      "correct": 0
-    },
-    {
-      "category": "movies",
-      "question": "Wer führte Regie bei 'Inception'?",
-      "answers": ["Christopher Nolan", "Denis Villeneuve", "Ridley Scott", "David Fincher"],
       "correct": 0
     },
     {
@@ -1578,7 +1524,7 @@
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr wurde 'Star Wars: Eine neue Hoffnung' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027Star Wars: Eine neue Hoffnung\u0027 veröffentlicht?",
       "answers": ["1976", "1977", "1978", "1979"],
       "correct": 1
     },
@@ -1590,19 +1536,13 @@
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Schindlers Liste'?",
+      "question": "Wer führte Regie bei \u0027Schindlers Liste\u0027?",
       "answers": ["Steven Spielberg", "Martin Scorsese", "Francis Ford Coppola", "George Lucas"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "Welcher Film gewann 1994 den Oscar für den besten Film?",
-      "answers": ["Forrest Gump", "Pulp Fiction", "Schindlers Liste", "Der König der Löwen"],
-      "correct": 0
-    },
-    {
-      "category": "movies",
-      "question": "In welchem Jahr wurde 'Matrix' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027Matrix\u0027 veröffentlicht?",
       "answers": ["1998", "1999", "2000", "2001"],
       "correct": 1
     },
@@ -1614,7 +1554,7 @@
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Die Verurteilten'?",
+      "question": "Wer führte Regie bei \u0027Die Verurteilten\u0027?",
       "answers": ["Frank Darabont", "Rob Reiner", "Stephen King", "Tim Robbins"],
       "correct": 0
     },
@@ -1626,7 +1566,7 @@
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr wurde 'Casablanca' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027Casablanca\u0027 veröffentlicht?",
       "answers": ["1941", "1942", "1943", "1944"],
       "correct": 1
     },
@@ -1643,19 +1583,13 @@
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Goodfellas'?",
-      "answers": ["Martin Scorsese", "Francis Ford Coppola", "Brian De Palma", "Michael Mann"],
-      "correct": 0
-    },
-    {
-      "category": "movies",
       "question": "Welcher Film gewann 2017 den Oscar für den besten Film?",
       "answers": ["La La Land", "Moonlight", "Manchester by the Sea", "Arrival"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr wurde 'E.T.' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027E.T.\u0027 veröffentlicht?",
       "answers": ["1981", "1982", "1983", "1984"],
       "correct": 1
     },
@@ -1667,33 +1601,21 @@
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Apocalypse Now'?",
-      "answers": ["Francis Ford Coppola", "Martin Scorsese", "Michael Cimino", "Oliver Stone"],
+      "question": "Welcher Film ist der erste der \u0027Der Herr der Ringe\u0027 Trilogie?",
+      "answers": ["Die Gefahrten", "Die zwei Türme", "Die Rückkehr des Königs", "Der Hobbit"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "Welcher Film ist der erste der 'Der Herr der Ringe' Trilogie?",
-      "answers": ["Die Gefährten", "Die zwei Türme", "Die Rückkehr des Königs", "Der Hobbit"],
-      "correct": 0
-    },
-    {
-      "category": "movies",
-      "question": "In welchem Jahr wurde 'Jaws' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027Jaws\u0027 veröffentlicht?",
       "answers": ["1974", "1975", "1976", "1977"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Welcher Schauspieler spielte James Bond in 'Casino Royale' (2006)?",
+      "question": "Welcher Schauspieler spielte James Bond in \u0027Casino Royale\u0027 (2006)?",
       "answers": ["Pierce Brosnan", "Daniel Craig", "Sean Connery", "Roger Moore"],
       "correct": 1
-    },
-    {
-      "category": "movies",
-      "question": "Wer führte Regie bei 'Taxi Driver'?",
-      "answers": ["Martin Scorsese", "Francis Ford Coppola", "Brian De Palma", "Sidney Lumet"],
-      "correct": 0
     },
     {
       "category": "movies",
@@ -1703,48 +1625,48 @@
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr wurde 'Die Hard' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027Die Hard\u0027 veröffentlicht?",
       "answers": ["1987", "1988", "1989", "1990"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Welcher Schauspieler spielte Neo in 'Matrix'?",
+      "question": "Welcher Schauspieler spielte Neo in \u0027Matrix\u0027?",
       "answers": ["Keanu Reeves", "Laurence Fishburne", "Hugo Weaving", "Joe Pantoliano"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Citizen Kane'?",
+      "question": "Wer führte Regie bei \u0027Citizen Kane\u0027?",
       "answers": ["Orson Welles", "John Ford", "Howard Hawks", "William Wyler"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "Welcher Film ist der erste der 'Indiana Jones' Serie?",
+      "question": "Welcher Film ist der erste der \u0027Indiana Jones\u0027 Serie?",
       "answers": [
-        "Jäger des verlorenen Schatzes",
+        "Jager des verlorenen Schatzes",
         "Indiana Jones und der Tempel des Todes",
         "Indiana Jones und der letzte Kreuzzug",
-        "Indiana Jones und das Königreich des Kristallschädels"
+        "Indiana Jones und das Königreich des Kristallschadels"
       ],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr wurde 'Alien' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027Alien\u0027 veröffentlicht?",
       "answers": ["1978", "1979", "1980", "1981"],
       "correct": 1
     },
     {
       "category": "movies",
-      "question": "Welcher Schauspieler spielte Vito Corleone in 'Der Pate'?",
+      "question": "Welcher Schauspieler spielte Vito Corleone in \u0027Der Pate\u0027?",
       "answers": ["Marlon Brando", "Al Pacino", "James Caan", "Robert Duvall"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Vertigo'?",
+      "question": "Wer führte Regie bei \u0027Vertigo\u0027?",
       "answers": ["Alfred Hitchcock", "Billy Wilder", "John Huston", "William Wyler"],
       "correct": 0
     },
@@ -1756,7 +1678,7 @@
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr wurde 'Zurück in die Zukunft' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027Zurück in die Zukunft\u0027 veröffentlicht?",
       "answers": ["1984", "1985", "1986", "1987"],
       "correct": 1
     },
@@ -1768,51 +1690,33 @@
     },
     {
       "category": "movies",
-      "question": "Wer führte Regie bei 'Blade Runner'?",
+      "question": "Wer führte Regie bei \u0027Blade Runner\u0027?",
       "answers": ["Ridley Scott", "Denis Villeneuve", "Philip K. Dick", "Harrison Ford"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "Welcher Film ist der erste der 'Rocky' Serie?",
+      "question": "Welcher Film ist der erste der \u0027Rocky\u0027 Serie?",
       "answers": ["Rocky", "Rocky II", "Rocky III", "Rocky IV"],
       "correct": 0
     },
     {
       "category": "movies",
-      "question": "In welchem Jahr wurde 'The Shining' veröffentlicht?",
+      "question": "In welchem Jahr wurde \u0027The Shining\u0027 veröffentlicht?",
       "answers": ["1979", "1980", "1981", "1982"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wie viele Staffeln hat 'Game of Thrones'?",
-      "answers": ["7", "8", "9", "10"],
-      "correct": 1
-    },
-    {
-      "category": "tv_series",
-      "question": "In welchem Jahr startete 'Breaking Bad'?",
+      "question": "In welchem Jahr startete \u0027Breaking Bad\u0027?",
       "answers": ["2007", "2008", "2009", "2010"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Sherlock Holmes in der BBC Serie?",
-      "answers": ["Benedict Cumberbatch", "Martin Freeman", "Andrew Scott", "Mark Gatiss"],
-      "correct": 0
-    },
-    {
-      "category": "tv_series",
-      "question": "Wie heißt die Hauptfigur in 'The Office' (US)?",
+      "question": "Wie heißt die Hauptfigur in \u0027The Office\u0027 (US)?",
       "answers": ["Jim Halpert", "Dwight Schrute", "Michael Scott", "Pam Beesly"],
       "correct": 2
-    },
-    {
-      "category": "tv_series",
-      "question": "In welchem Jahr endete 'Friends'?",
-      "answers": ["2003", "2004", "2005", "2006"],
-      "correct": 1
     },
     {
       "category": "tv_series",
@@ -1822,20 +1726,8 @@
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Walter White in 'Breaking Bad'?",
-      "answers": ["Bryan Cranston", "Aaron Paul", "Dean Norris", "RJ Mitte"],
-      "correct": 0
-    },
-    {
-      "category": "tv_series",
-      "question": "Wie viele Episoden hat die erste Staffel von 'Game of Thrones'?",
+      "question": "Wie viele Episoden hat die erste Staffel von \u0027Game of Thrones\u0027?",
       "answers": ["8", "10", "12", "13"],
-      "correct": 1
-    },
-    {
-      "category": "tv_series",
-      "question": "In welchem Jahr startete 'The Simpsons'?",
-      "answers": ["1988", "1989", "1990", "1991"],
       "correct": 1
     },
     {
@@ -1846,43 +1738,31 @@
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Jon Snow in 'Game of Thrones'?",
+      "question": "Wer spielt Jon Snow in \u0027Game of Thrones\u0027?",
       "answers": ["Kit Harington", "Richard Madden", "Robb Stark", "Sean Bean"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt die Kneipe in 'How I Met Your Mother'?",
-      "answers": ["MacLaren's Pub", "Cheers", "Central Perk", "The Bronze"],
+      "question": "Wie heißt die Kneipe in \u0027How I Met Your Mother\u0027?",
+      "answers": ["MacLaren\u0027s Pub", "Cheers", "Central Perk", "The Bronze"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'Lost'?",
-      "answers": ["2003", "2004", "2005", "2006"],
-      "correct": 1
-    },
-    {
-      "category": "tv_series",
-      "question": "Welche Serie spielt in einem Gefängnis?",
+      "question": "Welche Serie spielt in einem Gefangnis?",
       "answers": ["Prison Break", "Orange Is the New Black", "Oz", "Alle drei"],
       "correct": 3
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Tyrion Lannister in 'Game of Thrones'?",
-      "answers": ["Peter Dinklage", "Charles Dance", "Nikolaj Coster-Waldau", "Lena Headey"],
-      "correct": 0
-    },
-    {
-      "category": "tv_series",
-      "question": "Wie viele Staffeln hat 'Breaking Bad'?",
+      "question": "Wie viele Staffeln hat \u0027Breaking Bad\u0027?",
       "answers": ["4", "5", "6", "7"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr endete 'The Sopranos'?",
+      "question": "In welchem Jahr endete \u0027The Sopranos\u0027?",
       "answers": ["2006", "2007", "2008", "2009"],
       "correct": 1
     },
@@ -1894,19 +1774,19 @@
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Daenerys Targaryen in 'Game of Thrones'?",
+      "question": "Wer spielt Daenerys Targaryen in \u0027Game of Thrones\u0027?",
       "answers": ["Emilia Clarke", "Sophie Turner", "Maisie Williams", "Lena Headey"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt das Café in 'Friends'?",
-      "answers": ["Central Perk", "The Coffee Bean", "Starbucks", "Café Nervosa"],
+      "question": "Wie heißt das CafÃ© in \u0027Friends\u0027?",
+      "answers": ["Central Perk", "The Coffee Bean", "Starbucks", "CafÃ© Nervosa"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'House of Cards'?",
+      "question": "In welchem Jahr startete \u0027House of Cards\u0027?",
       "answers": ["2012", "2013", "2014", "2015"],
       "correct": 1
     },
@@ -1918,19 +1798,19 @@
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Eleven in 'Stranger Things'?",
+      "question": "Wer spielt Eleven in \u0027Stranger Things\u0027?",
       "answers": ["Millie Bobby Brown", "Winona Ryder", "Natalia Dyer", "Maya Hawke"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Wie viele Staffeln hat 'Stranger Things' bisher?",
+      "question": "Wie viele Staffeln hat \u0027Stranger Things\u0027 bisher?",
       "answers": ["3", "4", "5", "6"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'Mad Men'?",
+      "question": "In welchem Jahr startete \u0027Mad Men\u0027?",
       "answers": ["2006", "2007", "2008", "2009"],
       "correct": 1
     },
@@ -1942,13 +1822,13 @@
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Arya Stark in 'Game of Thrones'?",
+      "question": "Wer spielt Arya Stark in \u0027Game of Thrones\u0027?",
       "answers": ["Maisie Williams", "Sophie Turner", "Emilia Clarke", "Lena Headey"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt die Schule in 'Stranger Things'?",
+      "question": "Wie heißt die Schule in \u0027Stranger Things\u0027?",
       "answers": [
         "Hawkins High School",
         "Hawkins Middle School",
@@ -1959,31 +1839,31 @@
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'True Detective'?",
+      "question": "In welchem Jahr startete \u0027True Detective\u0027?",
       "answers": ["2013", "2014", "2015", "2016"],
       "correct": 1
     },
     {
       "category": "tv_series",
       "question": "Welche Serie spielt in einem Krankenhaus?",
-      "answers": ["Grey's Anatomy", "House", "ER", "Alle drei"],
+      "answers": ["Grey\u0027s Anatomy", "House", "ER", "Alle drei"],
       "correct": 3
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Frank Underwood in 'House of Cards'?",
+      "question": "Wer spielt Frank Underwood in \u0027House of Cards\u0027?",
       "answers": ["Kevin Spacey", "Robin Wright", "Michael Kelly", "Mahershala Ali"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Wie viele Hauptcharaktere gibt es in 'Friends'?",
+      "question": "Wie viele Hauptcharaktere gibt es in \u0027Friends\u0027?",
       "answers": ["4", "5", "6", "7"],
       "correct": 2
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr endete 'How I Met Your Mother'?",
+      "question": "In welchem Jahr endete \u0027How I Met Your Mother\u0027?",
       "answers": ["2013", "2014", "2015", "2016"],
       "correct": 1
     },
@@ -1995,19 +1875,19 @@
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Sansa Stark in 'Game of Thrones'?",
+      "question": "Wer spielt Sansa Stark in \u0027Game of Thrones\u0027?",
       "answers": ["Sophie Turner", "Maisie Williams", "Emilia Clarke", "Lena Headey"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt das Monster in 'Stranger Things'?",
+      "question": "Wie heißt das Monster in \u0027Stranger Things\u0027?",
       "answers": ["Demogorgon", "Mind Flayer", "Demodogs", "Alle drei sind Monster"],
       "correct": 3
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'The Crown'?",
+      "question": "In welchem Jahr startete \u0027The Crown\u0027?",
       "answers": ["2015", "2016", "2017", "2018"],
       "correct": 1
     },
@@ -2019,19 +1899,19 @@
     },
     {
       "category": "tv_series",
-      "question": "Wer spielt Cersei Lannister in 'Game of Thrones'?",
+      "question": "Wer spielt Cersei Lannister in \u0027Game of Thrones\u0027?",
       "answers": ["Lena Headey", "Emilia Clarke", "Sophie Turner", "Maisie Williams"],
       "correct": 0
     },
     {
       "category": "tv_series",
-      "question": "Wie viele Staffeln hat 'The Office' (US)?",
+      "question": "Wie viele Staffeln hat \u0027The Office\u0027 (US)?",
       "answers": ["8", "9", "10", "11"],
       "correct": 1
     },
     {
       "category": "tv_series",
-      "question": "In welchem Jahr startete 'Dexter'?",
+      "question": "In welchem Jahr startete \u0027Dexter\u0027?",
       "answers": ["2005", "2006", "2007", "2008"],
       "correct": 1
     },
@@ -2049,7 +1929,7 @@
     },
     {
       "category": "geography",
-      "question": "Welcher ist der längste Fluss der Welt?",
+      "question": "Welcher ist der langste Fluss der Welt?",
       "answers": ["Amazonas", "Nil", "Mississippi", "Jangtsekiang"],
       "correct": 1
     },
@@ -2061,7 +1941,7 @@
     },
     {
       "category": "geography",
-      "question": "Welches ist das flächenmäßig größte Land der Welt?",
+      "question": "Welches ist das flachenmaßig größte Land der Welt?",
       "answers": ["China", "USA", "Kanada", "Russland"],
       "correct": 3
     },
@@ -2103,7 +1983,7 @@
     },
     {
       "category": "geography",
-      "question": "Durch wie viele Länder fließt die Donau?",
+      "question": "Durch wie viele Lander fließt die Donau?",
       "answers": ["8", "10", "12", "14"],
       "correct": 1
     },
@@ -2133,8 +2013,13 @@
     },
     {
       "category": "geography",
-      "question": "Zwischen welchen Ländern liegt der Ärmelkanal?",
-      "answers": ["England und Frankreich", "England und Irland", "Frankreich und Spanien", "Deutschland und Dänemark"],
+      "question": "Zwischen welchen Landern liegt der Ärmelkanal?",
+      "answers": [
+        "England und Frankreich",
+        "England und Irland",
+        "Frankreich und Spanien",
+        "Deutschland und Danemark"
+      ],
       "correct": 0
     },
     {
@@ -2163,7 +2048,7 @@
     },
     {
       "category": "geography",
-      "question": "Welche Stadt wird als 'Stadt der Liebe' bezeichnet?",
+      "question": "Welche Stadt wird als \u0027Stadt der Liebe\u0027 bezeichnet?",
       "answers": ["Rom", "Paris", "Venedig", "Wien"],
       "correct": 1
     },
@@ -2188,7 +2073,7 @@
     {
       "category": "geography",
       "question": "Wie heißt der höchste Wasserfall der Welt?",
-      "answers": ["Niagarafälle", "Victoriafälle", "Angel Falls", "Iguazu-Fälle"],
+      "answers": ["Niagarafalle", "Victoriafalle", "Angel Falls", "Iguazu-Falle"],
       "correct": 2
     },
     {
@@ -2206,13 +2091,18 @@
     {
       "category": "geography",
       "question": "Welche Halbinsel liegt zwischen dem Roten Meer und dem Persischen Golf?",
-      "answers": ["Arabische Halbinsel", "Sinai-Halbinsel", "Iberische Halbinsel", "Skandinavische Halbinsel"],
+      "answers": [
+        "Arabische Halbinsel",
+        "Sinai-Halbinsel",
+        "Iberische Halbinsel",
+        "Skandinavische Halbinsel"
+      ],
       "correct": 0
     },
     {
       "category": "geography",
       "question": "Wie heißt die Hauptstadt von Brasilien?",
-      "answers": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "answers": ["Rio de Janeiro", "SÃ£o Paulo", "BrasÃ­lia", "Salvador"],
       "correct": 2
     },
     {
@@ -2235,15 +2125,9 @@
     },
     {
       "category": "geography",
-      "question": "Welcher ist der längste Fluss in Afrika?",
+      "question": "Welcher ist der langste Fluss in Afrika?",
       "answers": ["Kongo", "Niger", "Nil", "Sambesi"],
       "correct": 2
-    },
-    {
-      "category": "geography",
-      "question": "In welchem Land liegt die Stadt Machu Picchu?",
-      "answers": ["Chile", "Peru", "Bolivien", "Ecuador"],
-      "correct": 1
     },
     {
       "category": "geography",
@@ -2265,7 +2149,7 @@
     },
     {
       "category": "geography",
-      "question": "Welches Land hat die meisten Nachbarländer?",
+      "question": "Welches Land hat die meisten Nachbarlander?",
       "answers": ["Russland", "China", "Deutschland", "Brasilien"],
       "correct": 1
     },
@@ -2277,13 +2161,7 @@
     },
     {
       "category": "geography",
-      "question": "Welche Stadt liegt an zwei Kontinenten?",
-      "answers": ["Kairo", "Istanbul", "Moskau", "Teheran"],
-      "correct": 1
-    },
-    {
-      "category": "geography",
-      "question": "Wie heißt die kleinste europäische Hauptstadt?",
+      "question": "Wie heißt die kleinste europaische Hauptstadt?",
       "answers": ["Monaco", "Vaduz", "San Marino", "Valletta"],
       "correct": 3
     },
@@ -2292,12 +2170,6 @@
       "question": "Welcher Ozean ist der kleinste?",
       "answers": ["Atlantik", "Indischer Ozean", "Arktischer Ozean", "Pazifik"],
       "correct": 2
-    },
-    {
-      "category": "geography",
-      "question": "In welchem Land liegt die Atacama-Wüste?",
-      "answers": ["Peru", "Chile", "Argentinien", "Bolivien"],
-      "correct": 1
     },
     {
       "category": "geography",
@@ -2338,7 +2210,7 @@
     {
       "category": "geography",
       "question": "In welchem Meer liegt Zypern?",
-      "answers": ["Ägäisches Meer", "Ionisches Meer", "Mittelmeer", "Schwarzes Meer"],
+      "answers": ["Ägaisches Meer", "Ionisches Meer", "Mittelmeer", "Schwarzes Meer"],
       "correct": 2
     },
     {
@@ -2358,12 +2230,6 @@
       "question": "Wie heißt die größte Stadt in Nigeria?",
       "answers": ["Abuja", "Lagos", "Kano", "Ibadan"],
       "correct": 1
-    },
-    {
-      "category": "geography",
-      "question": "Welches Land hat die Form eines Stiefels?",
-      "answers": ["Griechenland", "Spanien", "Italien", "Portugal"],
-      "correct": 2
     },
     {
       "category": "geography",
@@ -2391,19 +2257,19 @@
     },
     {
       "category": "geography",
-      "question": "Welcher Kontinent hat die meisten Länder?",
+      "question": "Welcher Kontinent hat die meisten Lander?",
       "answers": ["Asien", "Europa", "Afrika", "Südamerika"],
       "correct": 2
     },
     {
       "category": "geography",
-      "question": "Wie heißt der längste Fluss in Südamerika?",
-      "answers": ["Orinoco", "Paraná", "Amazonas", "Magdalena"],
+      "question": "Wie heißt der langste Fluss in Südamerika?",
+      "answers": ["Orinoco", "ParanÃ¡", "Amazonas", "Magdalena"],
       "correct": 2
     },
     {
       "category": "geography",
-      "question": "Welches Land ist vollständig von Südafrika umschlossen?",
+      "question": "Welches Land ist vollstandig von Südafrika umschlossen?",
       "answers": ["Swasiland", "Lesotho", "Botswana", "Namibia"],
       "correct": 1
     },
@@ -2433,20 +2299,20 @@
     },
     {
       "category": "geography",
-      "question": "Welches Land hat die längste Küstenlinie?",
+      "question": "Welches Land hat die langste Küstenlinie?",
       "answers": ["Russland", "Kanada", "Norwegen", "Chile"],
       "correct": 1
     },
     {
       "category": "geography",
       "question": "Wie heißt die Hauptstadt von Paraguay?",
-      "answers": ["Asunción", "Ciudad del Este", "San Lorenzo", "Luque"],
+      "answers": ["AsunciÃ³n", "Ciudad del Este", "San Lorenzo", "Luque"],
       "correct": 0
     },
     {
       "category": "geography",
       "question": "Welcher See liegt zwischen Peru und Bolivien?",
-      "answers": ["Titicacasee", "Poopó-See", "Maracaibo-See", "Atitlán-See"],
+      "answers": ["Titicacasee", "PoopÃ³-See", "Maracaibo-See", "AtitlÃ¡n-See"],
       "correct": 0
     },
     {
@@ -2464,13 +2330,13 @@
     {
       "category": "geography",
       "question": "Welches Land liegt zwischen Deutschland und Polen?",
-      "answers": ["Tschechien", "Slowakei", "Österreich", "Keines"],
+      "answers": ["Tschechien", "Slowakei", "Ã–sterreich", "Keines"],
       "correct": 3
     },
     {
       "category": "geography",
       "question": "Wie heißt die Hauptstadt von Uruguay?",
-      "answers": ["Montevideo", "Salto", "Paysandú", "Las Piedras"],
+      "answers": ["Montevideo", "Salto", "PaysandÃº", "Las Piedras"],
       "correct": 0
     },
     {
@@ -2488,7 +2354,7 @@
     {
       "category": "geography",
       "question": "Wie heißt die größte Stadt in Marokko?",
-      "answers": ["Rabat", "Casablanca", "Fès", "Marrakesch"],
+      "answers": ["Rabat", "Casablanca", "FÃ¨s", "Marrakesch"],
       "correct": 1
     },
     {
@@ -2518,7 +2384,7 @@
     {
       "category": "geography",
       "question": "Wie heißt die Hauptstadt von Island?",
-      "answers": ["Reykjavik", "Akureyri", "Keflavik", "Hafnarfjörður"],
+      "answers": ["Reykjavik", "Akureyri", "Keflavik", "HafnarfjörÃ°ur"],
       "correct": 0
     },
     {
@@ -2571,13 +2437,13 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es einen 'Slam Dunk'?",
+      "question": "In welchem Sport gibt es einen \u0027Slam Dunk\u0027?",
       "answers": ["Volleyball", "Basketball", "Handball", "Tennis"],
       "correct": 1
     },
     {
       "category": "sports",
-      "question": "Welcher deutsche Fußballer gewann 2014 den Ballon d'Or?",
+      "question": "Welcher deutsche Fußballer gewann 2014 den Ballon d\u0027Or?",
       "answers": ["Thomas Müller", "Manuel Neuer", "Keiner", "Bastian Schweinsteiger"],
       "correct": 2
     },
@@ -2607,7 +2473,7 @@
     },
     {
       "category": "sports",
-      "question": "Welcher Boxer war als 'The Greatest' bekannt?",
+      "question": "Welcher Boxer war als \u0027The Greatest\u0027 bekannt?",
       "answers": ["Mike Tyson", "Muhammad Ali", "Joe Frazier", "Rocky Marciano"],
       "correct": 1
     },
@@ -2643,7 +2509,7 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es eine 'Penalty Box'?",
+      "question": "In welchem Sport gibt es eine \u0027Penalty Box\u0027?",
       "answers": ["Basketball", "Fußball", "Eishockey", "Handball"],
       "correct": 2
     },
@@ -2661,14 +2527,19 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport wird ein 'Puck' verwendet?",
+      "question": "In welchem Sport wird ein \u0027Puck\u0027 verwendet?",
       "answers": ["Eishockey", "Feldhockey", "Lacrosse", "Cricket"],
       "correct": 0
     },
     {
       "category": "sports",
       "question": "Wie heißt das berühmteste Pferderennen in England?",
-      "answers": ["Kentucky Derby", "Epsom Derby", "Melbourne Cup", "Prix de l'Arc de Triomphe"],
+      "answers": [
+        "Kentucky Derby",
+        "Epsom Derby",
+        "Melbourne Cup",
+        "Prix de l\u0027Arc de Triomphe"
+      ],
       "correct": 1
     },
     {
@@ -2679,7 +2550,7 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es eine '3-Punkt-Linie'?",
+      "question": "In welchem Sport gibt es eine \u00273-Punkt-Linie\u0027?",
       "answers": ["Volleyball", "Basketball", "Handball", "American Football"],
       "correct": 1
     },
@@ -2691,7 +2562,7 @@
     },
     {
       "category": "sports",
-      "question": "Welcher Schwimmer hält die meisten olympischen Goldmedaillen?",
+      "question": "Welcher Schwimmer halt die meisten olympischen Goldmedaillen?",
       "answers": ["Mark Spitz", "Michael Phelps", "Ian Thorpe", "Adam Peaty"],
       "correct": 1
     },
@@ -2715,13 +2586,13 @@
     },
     {
       "category": "sports",
-      "question": "Welcher Fußballspieler hat die meisten Ballon d'Or Auszeichnungen?",
+      "question": "Welcher Fußballspieler hat die meisten Ballon d\u0027Or Auszeichnungen?",
       "answers": ["Cristiano Ronaldo", "Lionel Messi", "Michel Platini", "Johan Cruyff"],
       "correct": 1
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es ein 'Birdie'?",
+      "question": "In welchem Sport gibt es ein \u0027Birdie\u0027?",
       "answers": ["Badminton", "Golf", "Tennis", "Squash"],
       "correct": 1
     },
@@ -2751,7 +2622,7 @@
     },
     {
       "category": "sports",
-      "question": "Welcher Sport wird bei den X-Games hauptsächlich gezeigt?",
+      "question": "Welcher Sport wird bei den X-Games hauptsachlich gezeigt?",
       "answers": ["Traditionelle Sportarten", "Extremsportarten", "Wassersport", "Wintersport"],
       "correct": 1
     },
@@ -2781,7 +2652,7 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es eine 'Shot Clock'?",
+      "question": "In welchem Sport gibt es eine \u0027Shot Clock\u0027?",
       "answers": ["Fußball", "Basketball", "Tennis", "Volleyball"],
       "correct": 1
     },
@@ -2799,7 +2670,7 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es 'Innings'?",
+      "question": "In welchem Sport gibt es \u0027Innings\u0027?",
       "answers": ["Cricket", "Baseball", "Softball", "Alle drei"],
       "correct": 3
     },
@@ -2812,18 +2683,18 @@
     {
       "category": "sports",
       "question": "Wie heißt das berühmteste Radrennen in Frankreich?",
-      "answers": ["Tour de France", "Giro d'Italia", "Vuelta a España", "Paris-Roubaix"],
+      "answers": ["Tour de France", "Giro d\u0027Italia", "Vuelta a EspaÃ±a", "Paris-Roubaix"],
       "correct": 0
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es eine 'Endzone'?",
+      "question": "In welchem Sport gibt es eine \u0027Endzone\u0027?",
       "answers": ["Basketball", "American Football", "Rugby", "Beide b und c"],
       "correct": 3
     },
     {
       "category": "sports",
-      "question": "Welcher Basketballspieler wurde als 'His Airness' bekannt?",
+      "question": "Welcher Basketballspieler wurde als \u0027His Airness\u0027 bekannt?",
       "answers": ["LeBron James", "Kobe Bryant", "Michael Jordan", "Magic Johnson"],
       "correct": 2
     },
@@ -2871,7 +2742,7 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es einen 'Scrum'?",
+      "question": "In welchem Sport gibt es einen \u0027Scrum\u0027?",
       "answers": ["American Football", "Rugby", "Australian Football", "Gaelic Football"],
       "correct": 1
     },
@@ -2889,13 +2760,13 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es eine 'Power Play'?",
+      "question": "In welchem Sport gibt es eine \u0027Power Play\u0027?",
       "answers": ["Basketball", "Eishockey", "American Football", "Rugby"],
       "correct": 1
     },
     {
       "category": "sports",
-      "question": "Welcher Fußballverein wird als 'Die Roten Teufel' bezeichnet?",
+      "question": "Welcher Fußballverein wird als \u0027Die Roten Teufel\u0027 bezeichnet?",
       "answers": ["FC Bayern München", "Bayer Leverkusen", "1. FC Kaiserslautern", "SC Freiburg"],
       "correct": 2
     },
@@ -2907,7 +2778,7 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es einen 'Ace'?",
+      "question": "In welchem Sport gibt es einen \u0027Ace\u0027?",
       "answers": ["Golf", "Tennis", "Volleyball", "Alle drei"],
       "correct": 3
     },
@@ -2955,20 +2826,35 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es einen 'Hat-Trick'?",
-      "answers": ["Nur im Fußball", "Nur im Cricket", "Nur im Eishockey", "In mehreren Sportarten"],
+      "question": "In welchem Sport gibt es einen \u0027Hat-Trick\u0027?",
+      "answers": [
+        "Nur im Fußball",
+        "Nur im Cricket",
+        "Nur im Eishockey",
+        "In mehreren Sportarten"
+      ],
       "correct": 3
     },
     {
       "category": "sports",
       "question": "Welche Farbe hat das gelbe Trikot bei der Tour de France?",
-      "answers": ["Für den Gesamtführenden", "Für den Bergkönig", "Für den Punktbesten", "Für den besten Nachwuchsfahrer"],
+      "answers": [
+        "Für den Gesamtführenden",
+        "Für den Bergkönig",
+        "Für den Punktbesten",
+        "Für den besten Nachwuchsfahrer"
+      ],
       "correct": 0
     },
     {
       "category": "sports",
-      "question": "Wie nennt man die Austragungsstätte des US Open Tennis?",
-      "answers": ["Madison Square Garden", "Yankee Stadium", "USTA Billie Jean King National Tennis Center", "Barclays Center"],
+      "question": "Wie nennt man die Austragungsstatte des US Open Tennis?",
+      "answers": [
+        "Madison Square Garden",
+        "Yankee Stadium",
+        "USTA Billie Jean King National Tennis Center",
+        "Barclays Center"
+      ],
       "correct": 2
     },
     {
@@ -2991,13 +2877,13 @@
     },
     {
       "category": "sports",
-      "question": "In welchem Sport gibt es 'Wickets'?",
+      "question": "In welchem Sport gibt es \u0027Wickets\u0027?",
       "answers": ["Baseball", "Cricket", "Softball", "Rounders"],
       "correct": 1
     },
     {
       "category": "sports",
-      "question": "Welcher deutsche Fußballverein wird 'Die Borussia' genannt?",
+      "question": "Welcher deutsche Fußballverein wird \u0027Die Borussia\u0027 genannt?",
       "answers": ["Borussia Dortmund", "Borussia Mönchengladbach", "Beide", "Keiner"],
       "correct": 2
     },
@@ -3006,6 +2892,961 @@
       "question": "In welchem Sport werden die Wimbledon Championships ausgetragen?",
       "answers": ["Badminton", "Tennis", "Squash", "Tischtennis"],
       "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "Welche Firma entwickelte das Spiel \u0027Overwatch\u0027?",
+      "answers": ["Activision", "Blizzard Entertainment", "Electronic Arts", "Ubisoft"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Spiel spielt man als Master Chief?",
+      "answers": ["Destiny", "Halo", "Mass Effect", "Titanfall"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "Welches Unternehmen steht hinter der Steam-Plattform?",
+      "answers": ["Epic Games", "Valve Corporation", "EA Origin", "GOG"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Jahr wurde das erste \u0027Grand Theft Auto\u0027 veröffentlicht?",
+      "answers": ["1995", "1997", "1999", "2001"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "Wie heißt der Protagonist in der \u0027Witcher\u0027-Spieleserie?",
+      "answers": ["Geralt von Riva", "Triss Merigold", "Yennefer", "Dandelion"],
+      "correct": 0
+    },
+    {
+      "category": "gaming",
+      "question": "Welche Konsole brachte Nintendo 2017 heraus?",
+      "answers": ["Wii U", "Nintendo 3DS", "Nintendo Switch", "Nintendo DS"],
+      "correct": 2
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Spiel sammelt man \u0027V-Bucks\u0027?",
+      "answers": ["Apex Legends", "Fortnite", "PUBG", "Call of Duty"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "Welches Studio entwickelte \u0027Red Dead Redemption\u0027?",
+      "answers": ["Bethesda", "Rockstar Games", "CD Projekt Red", "Naughty Dog"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Spiel kampft man gegen \u0027Creeper\u0027?",
+      "answers": ["Terraria", "Minecraft", "Roblox", "Fortnite"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "Welche Wahrung verwendet man in \u0027World of Warcraft\u0027?",
+      "answers": ["Gold", "Münzen", "Credits", "Edelsteine"],
+      "correct": 0
+    },
+    {
+      "category": "gaming",
+      "question": "Wer ist der Hauptantagonist in \u0027Super Mario Bros.\u0027?",
+      "answers": ["Wario", "Bowser", "King K. Rool", "Ganondorf"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Spiel gibt es die Stadt \u0027Los Santos\u0027?",
+      "answers": ["Saints Row", "Watch Dogs", "Grand Theft Auto V", "Mafia"],
+      "correct": 2
+    },
+    {
+      "category": "gaming",
+      "question": "Welches Genre beschreibt \u0027Dark Souls\u0027 am besten?",
+      "answers": ["RPG", "Shooter", "Puzzle", "Racing"],
+      "correct": 0
+    },
+    {
+      "category": "gaming",
+      "question": "Wie heißt der gelbe Charakter aus \u0027Pac-Man\u0027?",
+      "answers": ["Pac-Man", "Blinky", "Pinky", "Inky"],
+      "correct": 0
+    },
+    {
+      "category": "gaming",
+      "question": "Welches Spiel gilt als Vorganger von \u0027PUBG\u0027?",
+      "answers": ["DayZ", "H1Z1", "Arma 3", "Rust"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Spiel spielt man als \u0027Aloy\u0027?",
+      "answers": ["Horizon Zero Dawn", "The Last of Us", "Tomb Raider", "Assassin\u0027s Creed"],
+      "correct": 0
+    },
+    {
+      "category": "gaming",
+      "question": "Welche Konsole war der direkte Nachfolger der PlayStation?",
+      "answers": ["PlayStation 2", "PlayStation Portable", "PlayStation 3", "PlayStation Vita"],
+      "correct": 0
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Spiel gibt es \u0027PokÃ©stops\u0027?",
+      "answers": ["PokÃ©mon GO", "PokÃ©mon Red", "PokÃ©mon Blue", "PokÃ©mon Yellow"],
+      "correct": 0
+    },
+    {
+      "category": "gaming",
+      "question": "Welches Studio entwickelte \u0027Cyberpunk 2077\u0027?",
+      "answers": ["Bethesda", "CD Projekt Red", "Rockstar Games", "Ubisoft"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Jahr wurde \u0027Tetris\u0027 erstmals veröffentlicht?",
+      "answers": ["1984", "1985", "1986", "1987"],
+      "correct": 0
+    },
+    {
+      "category": "gaming",
+      "question": "Wie heißt die Hauptfigur in \u0027Assassin\u0027s Creed\u0027?",
+      "answers": [
+        "Ezio Auditore",
+        "AltaÃ¯r Ibn-La\u0027Ahad",
+        "Beide sind richtig",
+        "Desmond Miles"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "gaming",
+      "question": "Welches Spiel wird oft als erstes MMORPG bezeichnet?",
+      "answers": ["World of Warcraft", "EverQuest", "Ultima Online", "Final Fantasy XI"],
+      "correct": 2
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Spiel gibt es \u0027Chaos Emeralds\u0027?",
+      "answers": ["Sonic the Hedgehog", "Super Mario", "Crash Bandicoot", "Spyro"],
+      "correct": 0
+    },
+    {
+      "category": "gaming",
+      "question": "Welche Engine wird für \u0027Unreal Tournament\u0027 verwendet?",
+      "answers": ["Unity", "Unreal Engine", "CryEngine", "Source Engine"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Spiel kampft man als \u0027Doom Slayer\u0027?",
+      "answers": ["Quake", "Doom", "Wolfenstein", "Duke Nukem"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "Welches Unternehmen entwickelte \u0027Age of Empires\u0027?",
+      "answers": ["Blizzard", "Microsoft Studios", "Ensemble Studios", "Relic Entertainment"],
+      "correct": 2
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Spiel sammelt man \u0027Rupees\u0027?",
+      "answers": ["The Legend of Zelda", "Final Fantasy", "Dragon Quest", "Secret of Mana"],
+      "correct": 0
+    },
+    {
+      "category": "gaming",
+      "question": "Welche Spielkonsole brachte Sega 1988 heraus?",
+      "answers": ["Master System", "Mega Drive", "Saturn", "Dreamcast"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "In welchem Spiel gibt es den Charakter \u0027GLaDOS\u0027?",
+      "answers": ["Half-Life", "Portal", "Left 4 Dead", "Team Fortress"],
+      "correct": 1
+    },
+    {
+      "category": "gaming",
+      "question": "Welches Spiel machte das \u0027Battle Royale\u0027 Genre popular?",
+      "answers": ["Fortnite", "PUBG", "Apex Legends", "Call of Duty Warzone"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke produziert das Modell \u0027Prius\u0027?",
+      "answers": ["Honda", "Toyota", "Nissan", "Mazda"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "In welchem Land wurde Lamborghini gegründet?",
+      "answers": ["Deutschland", "Italien", "Frankreich", "Spanien"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke verwendet das Logo mit vier Ringen?",
+      "answers": ["BMW", "Mercedes", "Audi", "Volkswagen"],
+      "correct": 2
+    },
+    {
+      "category": "cars",
+      "question": "Wie heißt das berühmteste Modell von Porsche?",
+      "answers": ["Cayenne", "Panamera", "911", "Boxster"],
+      "correct": 2
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke produziert den \u0027Mustang\u0027?",
+      "answers": ["Ford", "Chevrolet", "Dodge", "Chrysler"],
+      "correct": 0
+    },
+    {
+      "category": "cars",
+      "question": "In welchem Jahr wurde der erste Volkswagen Kafer produziert?",
+      "answers": ["1935", "1938", "1940", "1945"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke steht für \u0027Bayerische Motoren Werke\u0027?",
+      "answers": ["BMW", "Mercedes", "Audi", "Opel"],
+      "correct": 0
+    },
+    {
+      "category": "cars",
+      "question": "Welches Land ist die Heimat von Ferrari?",
+      "answers": ["Deutschland", "Frankreich", "Italien", "Spanien"],
+      "correct": 2
+    },
+    {
+      "category": "cars",
+      "question": "Wie nennt man Autos mit Elektro- und Benzinmotor?",
+      "answers": ["Hybrid", "Electric", "Diesel", "Turbo"],
+      "correct": 0
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke produziert das Modell \u0027Corolla\u0027?",
+      "answers": ["Honda", "Toyota", "Nissan", "Hyundai"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "Welches Unternehmen besitzt die Marke Bugatti?",
+      "answers": ["BMW", "Mercedes", "Volkswagen Group", "Renault"],
+      "correct": 2
+    },
+    {
+      "category": "cars",
+      "question": "In welcher Stadt findet das Monaco Grand Prix statt?",
+      "answers": ["Monaco-Ville", "Monte Carlo", "La Condamine", "Fontvieille"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke verwendet den Slogan \u0027Das Auto\u0027?",
+      "answers": ["BMW", "Mercedes", "Audi", "Volkswagen"],
+      "correct": 3
+    },
+    {
+      "category": "cars",
+      "question": "Wie heißt das schnellste Serienfahrzeug von McLaren?",
+      "answers": ["F1", "P1", "720S", "Speedtail"],
+      "correct": 0
+    },
+    {
+      "category": "cars",
+      "question": "Welche Kraftstoffart wird in Dieselfahrzeugen verwendet?",
+      "answers": ["Benzin", "Diesel", "Ethanol", "Wasserstoff"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke produziert den \u0027Golf\u0027?",
+      "answers": ["Audi", "BMW", "Mercedes", "Volkswagen"],
+      "correct": 3
+    },
+    {
+      "category": "cars",
+      "question": "In welchem Jahr wurde Tesla Motors gegründet?",
+      "answers": ["2001", "2003", "2005", "2007"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke steht für \u0027Svenska Aeroplan Aktiebolaget\u0027?",
+      "answers": ["Volvo", "Saab", "Scania", "Koenigsegg"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "Wie heißt das Elektroauto von BMW?",
+      "answers": ["i3", "i8", "Beide sind richtig", "iX"],
+      "correct": 2
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke produziert das Modell \u0027Civic\u0027?",
+      "answers": ["Toyota", "Honda", "Nissan", "Mazda"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "In welcher Rennklasse fahrt Lewis Hamilton?",
+      "answers": ["Formel 1", "Formel 2", "IndyCar", "NASCAR"],
+      "correct": 0
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke gehört zum Stellantis-Konzern?",
+      "answers": ["Ford", "Toyota", "Peugeot", "BMW"],
+      "correct": 2
+    },
+    {
+      "category": "cars",
+      "question": "Wie heißt der Gründer von Tesla?",
+      "answers": ["Elon Musk", "Martin Eberhard", "Marc Tarpenning", "Alle sind Mitgründer"],
+      "correct": 3
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke produziert das Modell \u0027Wrangler\u0027?",
+      "answers": ["Ford", "Chevrolet", "Jeep", "Dodge"],
+      "correct": 2
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke verwendet das Trident-Logo?",
+      "answers": ["Ferrari", "Lamborghini", "Maserati", "Pagani"],
+      "correct": 2
+    },
+    {
+      "category": "cars",
+      "question": "Wie nennt man das System zur Kraftübertragung auf alle Rader?",
+      "answers": ["AWD", "4WD", "Allrad", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "cars",
+      "question": "Welche Marke produziert das Modell \u0027Camaro\u0027?",
+      "answers": ["Ford", "Chevrolet", "Dodge", "Chrysler"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "In welcher Stadt hat Mercedes-Benz seinen Hauptsitz?",
+      "answers": ["München", "Stuttgart", "Frankfurt", "Berlin"],
+      "correct": 1
+    },
+    {
+      "category": "cars",
+      "question": "Welche Kraftstoffart ist umweltfreundlicher?",
+      "answers": ["Benzin", "Diesel", "Elektro", "Ethanol"],
+      "correct": 2
+    },
+    {
+      "category": "movies",
+      "question": "In welchem Jahr erschien der erste \u0027Star Wars\u0027 Film?",
+      "answers": ["1975", "1977", "1979", "1981"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "Wie heißt der Hobbit in \u0027Der Herr der Ringe\u0027?",
+      "answers": ["Bilbo", "Frodo", "Sam", "Pippin"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "Wer spielte die Hauptrolle in \u0027Gladiator\u0027?",
+      "answers": ["Russell Crowe", "Joaquin Phoenix", "Gerard Butler", "Christian Bale"],
+      "correct": 0
+    },
+    {
+      "category": "movies",
+      "question": "In welchem Film sagt Darth Vader \u0027Ich bin dein Vater\u0027?",
+      "answers": [
+        "Eine neue Hoffnung",
+        "Das Imperium schlagt zurück",
+        "Die Rückkehr der Jedi-Ritter",
+        "Die Rache der Sith"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "Welcher Regisseur drehte \u0027Pulp Fiction\u0027?",
+      "answers": ["Martin Scorsese", "Quentin Tarantino", "David Fincher", "Paul Thomas Anderson"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "Wie heißt das Raumschiff in \u0027Alien\u0027?",
+      "answers": ["Nostromo", "Prometheus", "Covenant", "Sulaco"],
+      "correct": 0
+    },
+    {
+      "category": "movies",
+      "question": "In welchem Jahr spielt \u0027Zurück in die Zukunft II\u0027?",
+      "answers": ["2010", "2015", "2020", "2025"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "Wer komponierte die Musik für \u0027Jurassic Park\u0027?",
+      "answers": ["Hans Zimmer", "John Williams", "Danny Elfman", "Alan Silvestri"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "In welchem Film kampft Keanu Reeves als Neo?",
+      "answers": ["John Wick", "The Matrix", "Speed", "Point Break"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "Welcher Pixar-Film handelt von Emotionen?",
+      "answers": ["Toy Story", "Monsters Inc.", "Alles steht Kopf", "Cars"],
+      "correct": 2
+    },
+    {
+      "category": "movies",
+      "question": "In welchem Film singt Gene Kelly im Regen?",
+      "answers": [
+        "Singin\u0027 in the Rain",
+        "An American in Paris",
+        "On the Town",
+        "Anchors Aweigh"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "movies",
+      "question": "In welchem Film kampft Sigourney Weaver gegen Aliens?",
+      "answers": ["Predator", "Alien", "The Thing", "They Live"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "Wer spielte den Terminator?",
+      "answers": [
+        "Sylvester Stallone",
+        "Arnold Schwarzenegger",
+        "Bruce Willis",
+        "Jean-Claude Van Damme"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "Welcher Film gewann den ersten Oscar für den besten Animationsfilm?",
+      "answers": ["Toy Story", "Shrek", "Monsters Inc.", "Ice Age"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "In welchem Film spielt Bill Murray einen Wetterreporter?",
+      "answers": [
+        "Und taglich grüßt das Murmeltier",
+        "Lost in Translation",
+        "Ghostbusters",
+        "Stripes"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "movies",
+      "question": "Welcher Regisseur drehte \u0027Goodfellas\u0027?",
+      "answers": ["Francis Ford Coppola", "Martin Scorsese", "Brian De Palma", "Michael Mann"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "In welchem Film sagt Tom Cruise \u0027Show me the money\u0027?",
+      "answers": ["Top Gun", "Mission Impossible", "Jerry Maguire", "A Few Good Men"],
+      "correct": 2
+    },
+    {
+      "category": "movies",
+      "question": "Welcher Disney-Film handelt von einer Meerjungfrau?",
+      "answers": ["Pocahontas", "Arielle", "Mulan", "Dornröschen"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "Wer spielte die Hauptrolle in \u0027Cast Away\u0027?",
+      "answers": ["Tom Hanks", "Russell Crowe", "Kevin Costner", "Harrison Ford"],
+      "correct": 0
+    },
+    {
+      "category": "movies",
+      "question": "In welchem Film kampft Mel Gibson als William Wallace?",
+      "answers": ["The Patriot", "Braveheart", "Apocalypto", "Mad Max"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "Welcher Film basiert auf einem Stephen King Roman?",
+      "answers": ["The Green Mile", "Shining", "Carrie", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "movies",
+      "question": "Wer führte Regie bei \u0027E.T.\u0027?",
+      "answers": ["George Lucas", "Steven Spielberg", "Ridley Scott", "James Cameron"],
+      "correct": 1
+    },
+    {
+      "category": "movies",
+      "question": "In welchem Film spielt Robin Williams einen Psychiater?",
+      "answers": ["Dead Poets Society", "Good Will Hunting", "Patch Adams", "Awakenings"],
+      "correct": 1
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie spielt Bryan Cranston einen Chemielehrer?",
+      "answers": ["Better Call Saul", "Breaking Bad", "Malcolm mittendrin", "Sneaky Pete"],
+      "correct": 1
+    },
+    {
+      "category": "tv_series",
+      "question": "Wie heißt die Hauptfigur in \u0027Sherlock\u0027 (BBC)?",
+      "answers": ["Benedict Cumberbatch", "Sherlock Holmes", "John Watson", "Greg Lestrade"],
+      "correct": 1
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie kampfen Familien um den Eisernen Thron?",
+      "answers": ["The Witcher", "Game of Thrones", "Vikings", "The Last Kingdom"],
+      "correct": 1
+    },
+    {
+      "category": "tv_series",
+      "question": "Wer ist der Hauptcharakter in \u0027The Walking Dead\u0027?",
+      "answers": ["Daryl Dixon", "Rick Grimes", "Michonne", "Glenn Rhee"],
+      "correct": 1
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie arbeitet ein Gruppe von Freunden in einem Büro?",
+      "answers": ["Friends", "The Office", "How I Met Your Mother", "Scrubs"],
+      "correct": 1
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie spielt Hugh Laurie einen Arzt?",
+      "answers": ["Grey\u0027s Anatomy", "Scrubs", "House", "ER"],
+      "correct": 2
+    },
+    {
+      "category": "tv_series",
+      "question": "Welche Serie spielt in den 1980er Jahren?",
+      "answers": ["Stranger Things", "The Americans", "Halt and Catch Fire", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie kampfen Menschen gegen Titanen?",
+      "answers": ["Attack on Titan", "One Piece", "Naruto", "Dragon Ball"],
+      "correct": 0
+    },
+    {
+      "category": "tv_series",
+      "question": "Wer ist der Hauptcharakter in \u0027Dexter\u0027?",
+      "answers": ["Dexter Morgan", "Debra Morgan", "Angel Batista", "James Doakes"],
+      "correct": 0
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie lebt eine Familie in einem Bunker?",
+      "answers": ["Lost", "The 100", "Fallout", "Unbreakable Kimmy Schmidt"],
+      "correct": 2
+    },
+    {
+      "category": "tv_series",
+      "question": "Welche Serie handelt von Drogenhandel in Baltimore?",
+      "answers": ["The Wire", "The Sopranos", "Narcos", "Breaking Bad"],
+      "correct": 0
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie arbeitet ein Team von Genies für die Regierung?",
+      "answers": ["Scorpion", "NCIS", "Criminal Minds", "The Big Bang Theory"],
+      "correct": 0
+    },
+    {
+      "category": "tv_series",
+      "question": "Welche Serie spielt in einer Zombie-Apokalypse?",
+      "answers": ["The Walking Dead", "Z Nation", "iZombie", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie ist der Hauptcharakter ein Serienkiller?",
+      "answers": ["Dexter", "Hannibal", "Mindhunter", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "tv_series",
+      "question": "Welche Serie handelt von einem Zeitreisenden Arzt?",
+      "answers": ["Doctor Who", "Quantum Leap", "Outlander", "Timeless"],
+      "correct": 0
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie arbeiten Charaktere bei einer Papierfirma?",
+      "answers": ["The Office", "Mad Men", "Suits", "Workaholics"],
+      "correct": 0
+    },
+    {
+      "category": "tv_series",
+      "question": "Welche Serie spielt in einem Krankenhaus in Seattle?",
+      "answers": ["ER", "Grey\u0027s Anatomy", "Scrubs", "House"],
+      "correct": 1
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie kampfen Wikinger?",
+      "answers": ["Game of Thrones", "Vikings", "The Last Kingdom", "Barbarians"],
+      "correct": 1
+    },
+    {
+      "category": "tv_series",
+      "question": "Welche Serie handelt von einem Mathegenie?",
+      "answers": ["Numbers", "The Big Bang Theory", "Scorpion", "A Beautiful Mind"],
+      "correct": 0
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie arbeitet ein Team von Agenten für das FBI?",
+      "answers": ["Criminal Minds", "The X-Files", "NCIS", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "tv_series",
+      "question": "Welche Serie spielt in der Zukunft?",
+      "answers": ["Black Mirror", "Westworld", "The Expanse", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie lebt eine Gruppe von Freunden in New York?",
+      "answers": ["Friends", "How I Met Your Mother", "Seinfeld", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "tv_series",
+      "question": "Welche Serie handelt von einem Lehrer der Physik unterrichtet?",
+      "answers": ["Breaking Bad", "The Big Bang Theory", "Community", "Boston Public"],
+      "correct": 0
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie kampfen Menschen um das Ãœberleben auf einer Insel?",
+      "answers": ["Lost", "Survivor", "Robinson Crusoe", "Cast Away"],
+      "correct": 0
+    },
+    {
+      "category": "tv_series",
+      "question": "Welche Serie spielt in einem Bordell im Wilden Westen?",
+      "answers": ["Deadwood", "Westworld", "Hell on Wheels", "Godless"],
+      "correct": 1
+    },
+    {
+      "category": "tv_series",
+      "question": "In welcher Serie ist der Hauptcharakter ein Buchhalter?",
+      "answers": ["The Office", "The Accountant", "Arrested Development", "Workaholics"],
+      "correct": 0
+    },
+    {
+      "category": "tv_series",
+      "question": "Welche Serie handelt von einer Gruppe von Superhelden?",
+      "answers": ["Heroes", "The Boys", "Umbrella Academy", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "geography",
+      "question": "Welcher ist der langste Fluss Europas?",
+      "answers": ["Donau", "Wolga", "Rhein", "Elbe"],
+      "correct": 1
+    },
+    {
+      "category": "geography",
+      "question": "Welche ist die Hauptstadt von Australien?",
+      "answers": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correct": 2
+    },
+    {
+      "category": "geography",
+      "question": "Welcher Berg ist der höchste in Afrika?",
+      "answers": ["Mount Kenya", "Kilimandscharo", "Mount Stanley", "Ras Dashen"],
+      "correct": 1
+    },
+    {
+      "category": "geography",
+      "question": "In welchem Ozean liegt die Insel Madagaskar?",
+      "answers": ["Atlantischer Ozean", "Pazifischer Ozean", "Indischer Ozean", "Arktischer Ozean"],
+      "correct": 2
+    },
+    {
+      "category": "geography",
+      "question": "Welcher ist der tiefste Punkt der Erde?",
+      "answers": ["Marianengraben", "Puerto-Rico-Graben", "Diamantina-Graben", "Tonga-Graben"],
+      "correct": 0
+    },
+    {
+      "category": "geography",
+      "question": "In welchem Land befindet sich der Victoriasee?",
+      "answers": ["Kenia", "Tansania", "Uganda", "Alle drei Lander"],
+      "correct": 3
+    },
+    {
+      "category": "geography",
+      "question": "Welches Land besteht aus den meisten Inseln?",
+      "answers": ["Griechenland", "Schweden", "Finnland", "Norwegen"],
+      "correct": 2
+    },
+    {
+      "category": "geography",
+      "question": "In welchem Land liegt der Amazonas-Regenwald hauptsachlich?",
+      "answers": ["Kolumbien", "Venezuela", "Brasilien", "Peru"],
+      "correct": 2
+    },
+    {
+      "category": "geography",
+      "question": "Welche ist die südlichste Hauptstadt der Welt?",
+      "answers": ["Wellington", "Canberra", "Buenos Aires", "Montevideo"],
+      "correct": 0
+    },
+    {
+      "category": "geography",
+      "question": "In welchem Land liegt der Suezkanal?",
+      "answers": ["Ägypten", "Sudan", "Libyen", "Tunesien"],
+      "correct": 0
+    },
+    {
+      "category": "geography",
+      "question": "Welche Stadt ist als \u0027Stadt der Lichter\u0027 bekannt?",
+      "answers": ["New York", "Paris", "London", "Las Vegas"],
+      "correct": 1
+    },
+    {
+      "category": "geography",
+      "question": "In welchem Land befindet sich der Ayers Rock (Uluru)?",
+      "answers": ["Neuseeland", "Australien", "Papua-Neuguinea", "Fidschi"],
+      "correct": 1
+    },
+    {
+      "category": "geography",
+      "question": "Welche ist die größte Insel der Welt?",
+      "answers": ["Grönland", "Neuguinea", "Borneo", "Madagaskar"],
+      "correct": 0
+    },
+    {
+      "category": "geography",
+      "question": "Welcher See ist der größte in Afrika?",
+      "answers": ["Victoriasee", "Tanganjikasee", "Malawisee", "Tschadsee"],
+      "correct": 0
+    },
+    {
+      "category": "geography",
+      "question": "Welches Land grenzt sowohl an den Pazifik als auch an den Atlantik?",
+      "answers": ["USA", "Kanada", "Mexiko", "Alle drei Lander"],
+      "correct": 3
+    },
+    {
+      "category": "geography",
+      "question": "In welchem Land befindet sich die Atacama-Wüste?",
+      "answers": ["Peru", "Chile", "Argentinien", "Bolivien"],
+      "correct": 1
+    },
+    {
+      "category": "geography",
+      "question": "Welche Stadt war nie eine deutsche Hauptstadt?",
+      "answers": ["Bonn", "Berlin", "Hamburg", "Weimar"],
+      "correct": 2
+    },
+    {
+      "category": "geography",
+      "question": "Welcher ist der salzigste See der Welt?",
+      "answers": ["Totes Meer", "Großer Salzsee", "Aralsee", "Kaspisches Meer"],
+      "correct": 0
+    },
+    {
+      "category": "geography",
+      "question": "Welche Meerenge trennt Europa von Afrika?",
+      "answers": ["Straße von Gibraltar", "Straße von Hormus", "Bosporus", "Dardanellen"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport wird der Davis Cup ausgetragen?",
+      "answers": ["Tennis", "Golf", "Cricket", "Rugby"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Fußballverein gewann die meisten Champions League Titel?",
+      "answers": ["FC Barcelona", "Real Madrid", "AC Mailand", "Bayern München"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport verwendet man einen Puck?",
+      "answers": ["Eishockey", "Feldhockey", "Lacrosse", "Curling"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "Wer halt den Weltrekord im 100-Meter-Lauf der Manner?",
+      "answers": ["Carl Lewis", "Usain Bolt", "Justin Gatlin", "Yohan Blake"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welches Land gewann die Fußball-WM 2018?",
+      "answers": ["Deutschland", "Brasilien", "Frankreich", "Argentinien"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "Wie heißt das Finale der NFL?",
+      "answers": ["World Bowl", "Super Bowl", "Championship Bowl", "Final Bowl"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Deutsche gewann 7 Formel-1-Weltmeisterschaften?",
+      "answers": ["Nico Rosberg", "Sebastian Vettel", "Michael Schumacher", "Mika Hakkinen"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es einen \u0027Homerun\u0027?",
+      "answers": ["Cricket", "Baseball", "Softball", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Welche Sportart wird bei den X-Games nicht ausgetragen?",
+      "answers": ["Skateboarding", "BMX", "Motocross", "Schwimmen"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Boxer wurde \u0027The Greatest\u0027 genannt?",
+      "answers": ["Mike Tyson", "Muhammad Ali", "Joe Frazier", "George Foreman"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es einen \u0027Grand Slam\u0027?",
+      "answers": ["Tennis", "Golf", "Baseball", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Welches Team gewann die erste Fußball-Europameisterschaft?",
+      "answers": ["Deutschland", "Sowjetunion", "Spanien", "Italien"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport verwendet man einen Schlager mit Saiten?",
+      "answers": ["Tennis", "Badminton", "Squash", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Schwimmer gewann 8 Goldmedaillen bei einer Olympiade?",
+      "answers": ["Mark Spitz", "Michael Phelps", "Ian Thorpe", "Grant Hackett"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Jahr fanden die Olympischen Spiele in Berlin statt?",
+      "answers": ["1932", "1936", "1940", "1948"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Sport wird auf einem Court gespielt?",
+      "answers": ["Tennis", "Basketball", "Volleyball", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Wer gewann die meisten Grand Slam Titel im Herren-Tennis?",
+      "answers": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+      "correct": 2
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es eine \u0027Pole Position\u0027?",
+      "answers": ["Motorsport", "Leichtathletik", "Schwimmen", "Radfahren"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "Welches Land dominiert im Cricket?",
+      "answers": ["England", "Australien", "Indien", "Alle sind stark"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es einen \u0027Knockout\u0027?",
+      "answers": ["Boxen", "MMA", "Kickboxen", "Alle sind richtig"],
+      "correct": 3
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Deutsche Fußballverein spielt im Signal Iduna Park?",
+      "answers": ["Bayern München", "Borussia Dortmund", "Schalke 04", "Bayer Leverkusen"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport verwendet man einen \u0027Driver\u0027?",
+      "answers": ["Golf", "Auto Racing", "Tennis", "Baseball"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "Welches Land gewann die erste Fußball-Weltmeisterschaft?",
+      "answers": ["Brasilien", "Uruguay", "Argentinien", "Deutschland"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport gibt es einen \u0027Quarterback\u0027?",
+      "answers": ["Baseball", "American Football", "Rugby", "Basketball"],
+      "correct": 1
+    },
+    {
+      "category": "sports",
+      "question": "Welcher Leichtathlet halt den Weltrekord im Hochsprung?",
+      "answers": ["Javier Sotomayor", "Mutaz Barshim", "Gianmarco Tamberi", "Stefan Holm"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "In welchem Sport wird der Stanley Cup verliehen?",
+      "answers": ["Eishockey", "Lacrosse", "Field Hockey", "Basketball"],
+      "correct": 0
+    },
+    {
+      "category": "sports",
+      "question": "Welches Tier ist das Maskottchen der Chicago Bulls?",
+      "answers": ["Stier", "Bar", "Löwe", "Adler"],
+      "correct": 0
     }
   ]
 }

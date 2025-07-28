@@ -1,0 +1,16 @@
+const quizOptions = {
+  questionCount: 5,
+  shuffleQuestions: true,
+  questionTime: 15,
+  breakTime: 3,
+  pointsPerCorrect: 10,
+  showLiveVotes: false,
+  showPermanentLeaderboard: true,
+  showVotersDisplay: true,
+  channels: ['yinks87'],
+  debugMode: true,
+  startupCountdown: true,
+  startupCountdownTime: 3,
+  moderatorCommands: ['!startquiz', '!endquiz'],
+  finalLeaderboardFadeoutTime: 5,
+};

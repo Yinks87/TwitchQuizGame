@@ -1,5 +1,5 @@
 const quizOptions = {
-  questionCount: 5,
+  questionCount: 15,
   shuffleQuestions: true,
   questionTime: 15,
   breakTime: 3,

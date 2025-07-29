@@ -1,10 +1,10 @@
 {
   "questionCount": 15,
   "shuffleQuestions": true,
-  "questionTime": 15,
+  "questionTime": 20,
   "breakTime": 5,
   "pointsPerCorrect": 10,
-  "showLiveVotes": false,
+  "showLiveVotes": true,
   "showPermanentLeaderboard": true,
   "showVotersDisplay": true,
   "channels": [],
@@ -12,5 +12,5 @@
   "startupCountdown": true,
   "startupCountdownTime": 5,
   "moderatorCommands": ["!startquiz", "!endquiz"],
-  "finalLeaderboardFadeoutTime": 5
+  "finalLeaderboardFadeoutTime": 10
 }

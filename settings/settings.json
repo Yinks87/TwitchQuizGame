@@ -6,7 +6,7 @@
   "pointsPerCorrect": 10,
   "showLiveVotes": false,
   "showPermanentLeaderboard": true,
-  "showVotersDisplay": false,
+  "showVotersDisplay": true,
   "channels": [],
   "debugMode": true,
   "startupCountdown": true,

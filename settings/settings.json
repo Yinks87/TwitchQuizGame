@@ -4,7 +4,7 @@
   "questionTime": 20,
   "breakTime": 5,
   "pointsPerCorrect": 10,
-  "showLiveVotes": true,
+  "showLiveVotes": false,
   "showPermanentLeaderboard": true,
   "showVotersDisplay": true,
   "channels": [],

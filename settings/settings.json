@@ -1,7 +1,7 @@
 {
-  "questionCount": 15,
+  "questionCount": 12,
   "shuffleQuestions": true,
-  "questionTime": 20,
+  "questionTime": 25,
   "breakTime": 5,
   "pointsPerCorrect": 10,
   "showLiveVotes": false,

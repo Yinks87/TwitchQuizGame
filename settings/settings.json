@@ -12,5 +12,10 @@
   "startupCountdown": true,
   "startupCountdownTime": 5,
   "moderatorCommands": ["!startquiz", "!endquiz"],
-  "finalLeaderboardFadeoutTime": 10
-}
+  "finalLeaderboardFadeoutTime": 10,
+  "answerPrefixesSets": [
+      ["!a", "!b", "!c", "!d", "!e", "!f"],
+      ["!1", "!2", "!3", "!4", "!5", "!6"],
+      ["!t", "!u", "!w", "!x", "!y", "!z"],
+    ]
+  }

@@ -253,10 +253,10 @@
     },
     {
       "category": "gaming",
-      "question": "In welchem Spiel sammelt man PokÃ©balls?",
+      "question": "In welchem Spiel sammelt man Pokeballs?",
       "answers": [
         "Digimon",
-        "PokÃ©mon",
+        "Pokemon",
         "Yu-Gi-Oh!",
         "Tamagotchi"
       ],
@@ -3509,12 +3509,12 @@
     },
     {
       "category": "tv_series",
-      "question": "Wie heißt das CafÃ© in 'Friends'?",
+      "question": "Wie heißt das Cafe in 'Friends'?",
       "answers": [
         "Central Perk",
         "The Coffee Bean",
         "Starbucks",
-        "CafÃ© Nervosa"
+        "Cafe Nervosa"
       ],
       "correct": 0
     },
@@ -4160,10 +4160,10 @@
       "category": "tv_series",
       "question": "Wie heißt das Cafe in 'Friends'?",
       "answers": [
-        "Central CafÃ©",
+        "Central Cafe",
         "Central Perk",
-        "Friends CafÃ©",
-        "Manhattan CafÃ©"
+        "Friends Cafe",
+        "Manhattan Cafe"
       ],
       "correct": 1
     },
@@ -5170,12 +5170,12 @@
     },
     {
       "category": "gaming",
-      "question": "In welchem Spiel gibt es 'PokÃ©stops'?",
+      "question": "In welchem Spiel gibt es 'Pokestops'?",
       "answers": [
-        "PokÃ©mon GO",
-        "PokÃ©mon Red",
-        "PokÃ©mon Blue",
-        "PokÃ©mon Yellow"
+        "Pokemon GO",
+        "Pokemon Red",
+        "Pokemon Blue",
+        "Pokemon Yellow"
       ],
       "correct": 0
     },
